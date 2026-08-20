@@ -9,7 +9,7 @@
 
 <td width="30%" align="center" valign="middle">
 
-<img src="./assets/anis-fathima.jpg" width="170" alt="Anis Fathima"/>
+<img src="./assets/profile.png" width="170" alt="Anis Fathima"/>
 
 <br>
 
