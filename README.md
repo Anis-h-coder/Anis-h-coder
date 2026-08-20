@@ -142,21 +142,21 @@ Currently exploring **RAG pipelines, AI agents, LLM applications, intelligent se
 <tr>
 <td width="50%" valign="top">
 
-### `01` · Programming
+### <sub>01</sub> · Programming
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark" height="38"/>
 
-<sub>Python · JavaScript · SQL · HTML · CSS</sub>
+<small>Python · JavaScript · SQL · HTML · CSS</small>
 
 </td>
 
 <td width="50%" valign="top">
 
-### `02` · Machine Learning & AI
+### <sub>02</sub> · Machine Learning & AI
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" height="38"/>
 
-<sub>Deep Learning · Supervised · Unsupervised · NumPy · Pandas · NLP</sub>
+<small>Deep Learning · Supervised · Unsupervised · NumPy · Pandas · NLP</small>
 
 </td>
 </tr>
@@ -164,7 +164,7 @@ Currently exploring **RAG pipelines, AI agents, LLM applications, intelligent se
 <tr>
 <td valign="top">
 
-### `03` · Generative AI
+### <sub>03</sub> · Generative AI
 
 <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square"/>
 <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square"/>
@@ -183,11 +183,11 @@ Currently exploring **RAG pipelines, AI agents, LLM applications, intelligent se
 
 <td valign="top">
 
-### `04` · Frameworks & Tools
+### <sub>04</sub> · Frameworks & Tools
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,react,git,github,jupyter&theme=dark" height="38"/>
 
-<sub>FastAPI · Flask · React.js · REST APIs · Git · GitHub · Jupyter</sub>
+<small>FastAPI · Flask · React.js · REST APIs · Git · GitHub · Jupyter</small>
 
 </td>
 </tr>
@@ -195,9 +195,11 @@ Currently exploring **RAG pipelines, AI agents, LLM applications, intelligent se
 <tr>
 <td colspan="2" valign="top">
 
-### `05` · Professional
+### <sub>05</sub> · Professional
 
-`Communication` · `Problem Solving` · `Analytical Thinking` · `Team Player` · `Quick Learner`
+<small>
+Communication · Problem Solving · Analytical Thinking · Team Player · Quick Learner
+</small>
 
 </td>
 </tr>
