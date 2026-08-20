@@ -156,7 +156,7 @@ Currently exploring **RAG pipelines, AI agents, LLM applications, intelligent se
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" height="38"/>
 
-<small>Deep Learning · Supervised · Unsupervised · NumPy · Pandas · NLP</small>
+<small>Deep Learning · Supervised · Unsupervised · NumPy · Pandas · Tensorflow · Scikit-learn · Pytorch · NLP</small>
 
 </td>
 </tr>
@@ -187,7 +187,7 @@ Currently exploring **RAG pipelines, AI agents, LLM applications, intelligent se
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,react,git,github,jupyter&theme=dark" height="38"/>
 
-<small>FastAPI · Flask · React.js · REST APIs · Git · GitHub · Jupyter</small>
+<small>FastAPI · Flask · React.js · REST APIs · Git · GitHub · Jupyter Notebook</small>
 
 </td>
 </tr>
