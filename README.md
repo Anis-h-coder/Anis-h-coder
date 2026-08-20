@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080A10,50:111522,100:1E1B4B&height=180&section=header&text=ANIS%20FATHIMA&fontSize=48&fontColor=F7F5F2&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%E2%80%A2%20AI%2FML%20ENGINEER&descAlignY=60&descSize=14&descColor=C7B7FF"/>
+# ANISH FATHIMA
+
+### AI & Data Science · AI/ML Engineer
 
 <table>
 <tr>
