@@ -357,15 +357,13 @@ Explore →
 <br>
 
 <a href="https://www.linkedin.com/in/anish-fathima-n-425340300">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:fanish050@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
-
 <a href="https://github.com/Anis-h-coder">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <p>
@@ -374,4 +372,4 @@ Explore →
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,45:111827,75:1E1B4B,100:080B12&height=65&section=footer&width=1600"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,45:111827,75:1E1B4B,100:080B12&height=45&section=footer&width=1600"/>
