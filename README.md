@@ -334,10 +334,6 @@ Explore →
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Anis-h-coder&show_icons=true&hide_border=true&bg_color=080B12&title_color=67E8F9&icon_color=A5B4FC&text_color=E5E7EB&include_all_commits=true"/>
 
-<img height="160" src="https://streak-stats.demolab.com/?user=Anis-h-coder&hide_border=true&background=080B12&stroke=1E293B&ring=67E8F9&fire=A5B4FC&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B"/>
-
-<br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anis-h-coder&bg_color=080B12&color=CBD5E1&line=67E8F9&point=A5B4FC&area=true&hide_border=true"/>
 
 </div>
