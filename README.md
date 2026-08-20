@@ -52,21 +52,7 @@ My work focuses on systems that can
 
 </tr>
 </table>
-
-<br>
-
-<img src="https://img.shields.io/badge/✦%20OPEN%20TO%20AI%2FML%20%26%20DATA%20OPPORTUNITIES-111522?style=for-the-badge&labelColor=111522&color=252A38"/>
-
-<br><br>
-
-
-
-
 </div>
-
-<br>
-
-
 ---
 
 # ✦ About Me
