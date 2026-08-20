@@ -352,11 +352,11 @@ Explore →
 
 <br>
 
-<a href="https://www.linkedin.com/">
+<a href="["https://www.linkedin.com/in/anish-fathima-n-425340300">
 <img src="https://img.shields.io/badge/LINKEDIN-111827?style=flat-square&logo=linkedin&logoColor=67E8F9"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:fanish050@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-111827?style=flat-square&logo=gmail&logoColor=A5B4FC"/>
 </a>
 
