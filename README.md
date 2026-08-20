@@ -51,7 +51,7 @@ My current interests include **RAG pipelines, AI agents, LLM applications, intel
 ---
 
 # ✦ Expertise
-
+<div align="center">
 <table>
 <tr>
 
@@ -121,7 +121,7 @@ My current interests include **RAG pipelines, AI agents, LLM applications, intel
 
 </tr>
 </table>
-
+</div>
 ---
 
 # ✦ Technology Universe
