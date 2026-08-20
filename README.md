@@ -374,4 +374,4 @@ Explore →
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,45:111827,75:1E1B4B,100:080B12&height=90&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,45:111827,75:1E1B4B,100:080B12&height=65&section=footer&width=1600"/>
