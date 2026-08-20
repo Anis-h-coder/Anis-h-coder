@@ -2,23 +2,78 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=52&pause=2500&color=E9D5FF&center=true&vCenter=true&width=800&height=80&lines=Anis+Fathima" alt="Anis Fathima"/>
+<!-- HERO -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080A10,45:111522,75:171329,100:080A10&section=header&text=ANIS%20FATHIMA&fontSize=54&fontColor=F7F5F2&fontAlignY=37&desc=AI%20%26%20DATA%20SCIENCE%20%20%E2%80%A2%20AI%2FML%20ENGINEER&descAlignY=58&descSize=15&descColor=C7B7FF&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=100000&color=A7F3D0&center=true&vCenter=true&width=800&height=35&lines=AI+%26+Data+Science+%7C+Generative+AI+%7C+Machine+Learning" alt="AI & Data Science"/>
+<table>
+<tr>
+
+<td width="32%" align="center" valign="middle">
+
+<img
+src="./assets/anis-fathima.jpg"
+width="190"
+alt="Anis Fathima"
+/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-0B1020?style=for-the-badge&labelColor=0B1020&color=1E293B"/>
-<img src="https://img.shields.io/badge/Generative%20AI-0B1020?style=for-the-badge&labelColor=0B1020&color=1E293B"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0B1020?style=for-the-badge&labelColor=0B1020&color=1E293B"/>
+<img src="https://img.shields.io/badge/AI%20%26%20DATA%20SCIENCE-111522?style=for-the-badge&labelColor=111522&color=C7B7FF"/>
+
+</td>
+
+<td width="68%" align="left" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=29&duration=3500&pause=1000&color=F7F5F2&left=true&vCenter=true&width=560&height=55&lines=Building+Intelligent+Systems;Designing+AI+%26+ML+Products;Exploring+Generative+AI;Turning+Data+into+Decisions"/>
+
+<br>
+
+<p>
+I build intelligent applications at the intersection of
+<b>Artificial Intelligence, Machine Learning, Generative AI and Data.</b>
+</p>
+
+<p>
+My work focuses on systems that can
+<b>read · reason · retrieve · predict · explain · respond.</b>
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-111522?style=flat-square&labelColor=111522&color=C7B7FF"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-111522?style=flat-square&labelColor=111522&color=C7B7FF"/>
+<img src="https://img.shields.io/badge/RAG-111522?style=flat-square&labelColor=111522&color=C7B7FF"/>
+<img src="https://img.shields.io/badge/AI%20AGENTS-111522?style=flat-square&labelColor=111522&color=C7B7FF"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/✦%20OPEN%20TO%20AI%2FML%20%26%20DATA%20OPPORTUNITIES-111522?style=for-the-badge&labelColor=111522&color=252A38"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:0F766E&height=130&section=header"/>
+<a href="https://github.com/Anis-h-coder">
+<img src="https://img.shields.io/badge/GITHUB-C7B7FF?style=for-the-badge&logo=github&logoColor=080A10"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-E7DEFF?style=for-the-badge&logo=linkedin&logoColor=080A10"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-F7F5F2?style=for-the-badge&logo=gmail&logoColor=080A10"/>
+</a>
 
 </div>
+
+<br>
 
 
 ---
