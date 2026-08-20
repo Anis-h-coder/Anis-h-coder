@@ -1,82 +1,139 @@
 <!-- ========================================================= -->
-<!--                    ANIS FATHIMA | GITHUB                  -->
+<!--                     HERO SECTION                          -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anis-h-coder/Anis-h-coder/main/assets/profile-banner.png"
-     width="100%"
-     alt="Anis Fathima AI Portfolio"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090B10,45:111522,100:181326&section=header&text=ANIS%20FATHIMA&fontSize=52&fontColor=F5F3EE&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%20%E2%80%A2%20AI%2FML%20ENGINEER&descAlignY=60&descSize=15&descColor=B8A1FF&animation=fadeIn"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&height=45&lines=AI+%26+Data+Science+%7C+AIML+Developer;Building+Intelligent+AI+Systems;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;LLMs+%7C+RAG+%7C+AI+Agents+%7C+NLP"
-     alt="Typing animation"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:171A35&height=2&section=header"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-0B1020?style=for-the-badge&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/GenAI-0B1020?style=for-the-badge&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0B1020?style=for-the-badge&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/RAG-0B1020?style=for-the-badge&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/AI%20Agents-0B1020?style=for-the-badge&logoColor=22D3EE"/>
-
-</div>
-
-<br/>
-
----
-
-# ✦ About Me
+<br>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="30%" align="center">
 
-### Building AI that actually does something.
-
-I'm **Anis Fathima**, an **AI & Data Science student and AIML Developer** focused on building intelligent applications that combine **Machine Learning, Deep Learning, Generative AI and modern software engineering**.
-
-My work explores systems that can **read, reason, retrieve, analyze and respond** — from enterprise multi-agent platforms to RAG pipelines, natural-language analytics and AI-powered applications.
-
-I enjoy turning an idea into a working system:
-
-**Idea → Architecture → Model → Application → Impact**
-
-<br/>
-
-🎓 **B.Tech — Artificial Intelligence & Data Science**
-
-📍 Chennai, India
-
-🧠 Interested in **AI, GenAI, LLMs, RAG & Agentic Systems**
-
-🚀 Currently building intelligent real-world applications.
+<img
+src="./assets/anis-fathima.jpg"
+width="190"
+style="border-radius:50%; border:3px solid #B8A1FF;"
+alt="Anis Fathima"
+/>
 
 </td>
 
-<td width="45%" align="center">
+<td width="70%" align="left">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-     width="320"
-     alt="Coding animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=28&duration=3500&pause=1000&color=F5F3EE&center=false&vCenter=true&width=520&height=55&lines=Building+Intelligent+Systems;Designing+AI+%26+ML+Products;Exploring+Generative+AI;Turning+Data+into+Decisions" />
 
-<br/><br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=350&height=35&lines=Think+%E2%86%92+Build+%E2%86%92+Learn;Train+%E2%86%92+Deploy+%E2%86%92+Improve;Explore+%E2%86%92+Experiment+%E2%86%92+Innovate"
-     alt="Learning animation"/>
+<p>
+I build intelligent applications at the intersection of
+<b>Artificial Intelligence, Machine Learning, Generative AI and Data.</b>
+</p>
+
+<p>
+My work focuses on systems that can
+<b>read · reason · retrieve · predict · explain · respond.</b>
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-B8A1FF?style=flat-square&labelColor=10141C&color=B8A1FF"/>
+<img src="https://img.shields.io/badge/GEN%20AI-E8D8FF?style=flat-square&labelColor=10141C&color=E8D8FF"/>
+<img src="https://img.shields.io/badge/RAG-B8A1FF?style=flat-square&labelColor=10141C&color=B8A1FF"/>
+<img src="https://img.shields.io/badge/MULTI--AGENT-E8D8FF?style=flat-square&labelColor=10141C&color=E8D8FF"/>
 
 </td>
 </tr>
 </table>
 
+<br>
+
+<img src="https://img.shields.io/badge/✦%20OPEN%20TO%20AI%2FML%20%26%20DATA%20OPPORTUNITIES-10141C?style=for-the-badge&labelColor=10141C&color=252B36"/>
+
+<br><br>
+
+<a href="https://github.com/Anis-h-coder">
+<img src="https://img.shields.io/badge/GITHUB-B8A1FF?style=for-the-badge&logo=github&logoColor=090B10"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-E8D8FF?style=for-the-badge&logo=linkedin&logoColor=090B10"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-F5F3EE?style=for-the-badge&logo=gmail&logoColor=090B10"/>
+</a>
+
+</div>
+
+<br>
+
 ---
 
-# ✦ Focus Areas
+<!-- ========================================================= -->
+<!--                     ABOUT ME                              -->
+<!-- ========================================================= -->
+
+## ✦ About Me
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+### Building AI that actually does something.
+
+I'm **Anis Fathima**, an AI & Data Science student and aspiring **AI/ML Engineer** focused on building practical intelligent systems.
+
+I enjoy moving beyond experiments and turning ideas into working products — from **RAG pipelines and multi-agent architectures** to **predictive analytics, computer vision and natural-language interfaces**.
+
+My approach is simple:
+
+> **Idea → Architecture → Model → Application → Impact**
+
+<br>
+
+**Currently focused on**
+
+- ◈ Generative AI & LLM applications
+- ◈ Retrieval-Augmented Generation
+- ◈ Multi-Agent AI systems
+- ◈ Machine Learning & Deep Learning
+- ◈ Natural Language Processing
+- ◈ Data Analytics & Visualization
+- ◈ AI-powered full-stack applications
+
+<br>
+
+**Education**
+
+🎓 B.Tech — Artificial Intelligence & Data Science  
+📍 Chennai, India
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=B8A1FF&center=true&vCenter=true&width=250&height=100&lines=Learn+%E2%86%92+Build;Build+%E2%86%92+Experiment;Experiment+%E2%86%92+Improve;Improve+%E2%86%92+Impact" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20%26%20DATA-10141C?style=for-the-badge&logoColor=B8A1FF"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                     FOCUS                                 -->
+<!-- ========================================================= -->
+
+## ✦ Focus Areas
 
 <div align="center">
 
@@ -84,51 +141,63 @@ I enjoy turning an idea into a working system:
 <tr>
 
 <td align="center" width="16%">
-<br/>
-<img src="https://skillicons.dev/icons?i=openai" width="45"/>
-<br/><br/>
-<b>Large Language<br/>Models</b>
-<br/><br/>
+<br>
+🧠
+<br><br>
+<b>LLMs</b>
+<br>
+<sub>Large Language Models</sub>
+<br><br>
 </td>
 
 <td align="center" width="16%">
-<br/>
-<img src="https://img.icons8.com/fluency/48/search.png" width="45"/>
-<br/><br/>
-<b>RAG &<br/>Retrieval</b>
-<br/><br/>
+<br>
+🔎
+<br><br>
+<b>RAG</b>
+<br>
+<sub>Retrieval Systems</sub>
+<br><br>
 </td>
 
 <td align="center" width="16%">
-<br/>
-<img src="https://img.icons8.com/fluency/48/bot.png" width="45"/>
-<br/><br/>
-<b>AI<br/>Agents</b>
-<br/><br/>
+<br>
+🤖
+<br><br>
+<b>Agents</b>
+<br>
+<sub>Multi-Agent AI</sub>
+<br><br>
 </td>
 
 <td align="center" width="16%">
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow" width="45"/>
-<br/><br/>
-<b>Machine<br/>Learning</b>
-<br/><br/>
+<br>
+📊
+<br><br>
+<b>ML</b>
+<br>
+<sub>Predictive Models</sub>
+<br><br>
 </td>
 
 <td align="center" width="16%">
-<br/>
-<img src="https://img.icons8.com/fluency/48/database.png" width="45"/>
-<br/><br/>
-<b>NL → SQL<br/>Analytics</b>
-<br/><br/>
+<br>
+💬
+<br><br>
+<b>NLP</b>
+<br>
+<sub>Language Intelligence</sub>
+<br><br>
 </td>
 
 <td align="center" width="16%">
-<br/>
-<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="45"/>
-<br/><br/>
-<b>Predictive<br/>Analytics</b>
-<br/><br/>
+<br>
+👁️
+<br><br>
+<b>CV</b>
+<br>
+<sub>Computer Vision</sub>
+<br><br>
 </td>
 
 </tr>
@@ -138,7 +207,11 @@ I enjoy turning an idea into a working system:
 
 ---
 
-# ✦ Technology Universe
+<!-- ========================================================= -->
+<!--                  TECHNOLOGY UNIVERSE                      -->
+<!-- ========================================================= -->
+
+## ✦ Technology Universe
 
 ### `01` — Languages
 
@@ -148,32 +221,38 @@ I enjoy turning an idea into a working system:
 
 </div>
 
+<br>
+
 ### `02` — AI / Machine Learning
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/LLM%20Applications-111827?style=for-the-badge&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logoColor=818CF8"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-10141C?style=flat-square&color=10141C"/>
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-10141C?style=flat-square&color=10141C"/>
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-10141C?style=flat-square&color=10141C"/>
 
 </div>
 
-### `03` — LLM Ecosystem
+<br>
+
+### `03` — Generative AI
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Google%20Gemini-111827?style=for-the-badge&logo=google&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge&logoColor=F97316"/>
-<img src="https://img.shields.io/badge/LLaMA-111827?style=for-the-badge&logo=meta&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/LLM%20APPLICATIONS-10141C?style=flat-square&labelColor=10141C&color=B8A1FF"/>
+<img src="https://img.shields.io/badge/RAG-10141C?style=flat-square&labelColor=10141C&color=B8A1FF"/>
+<img src="https://img.shields.io/badge/MULTI--AGENT%20SYSTEMS-10141C?style=flat-square&labelColor=10141C&color=B8A1FF"/>
+<img src="https://img.shields.io/badge/GEMINI-10141C?style=flat-square&labelColor=10141C&color=B8A1FF"/>
+<img src="https://img.shields.io/badge/GROQ%20%2F%20LLAMA-10141C?style=flat-square&labelColor=10141C&color=B8A1FF"/>
+<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-10141C?style=flat-square&labelColor=10141C&color=B8A1FF"/>
 
 </div>
+
+<br>
 
 ### `04` — Backend / Data
 
@@ -183,17 +262,21 @@ I enjoy turning an idea into a working system:
 
 </div>
 
+<br>
+
 ### `05` — Analytics
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Plotly-111827?style=for-the-badge&logo=plotly&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/POWER%20BI-10141C?style=flat-square&labelColor=10141C&color=E8D8FF"/>
+<img src="https://img.shields.io/badge/TABLEAU-10141C?style=flat-square&labelColor=10141C&color=E8D8FF"/>
+<img src="https://img.shields.io/badge/PLOTLY-10141C?style=flat-square&labelColor=10141C&color=E8D8FF"/>
+<img src="https://img.shields.io/badge/PANDAS-10141C?style=flat-square&labelColor=10141C&color=E8D8FF"/>
+<img src="https://img.shields.io/badge/NUMPY-10141C?style=flat-square&labelColor=10141C&color=E8D8FF"/>
 
 </div>
+
+<br>
 
 ### `06` — Tools & Cloud
 
@@ -205,170 +288,275 @@ I enjoy turning an idea into a working system:
 
 ---
 
-# ✦ Featured Projects
+<!-- ========================================================= -->
+<!--                    FEATURED WORK                          -->
+<!-- ========================================================= -->
+
+## ✦ Featured Work
 
 <div align="center">
 
-## 01 · NexusAI
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:312E81&height=3&section=header"/>
-
-### Enterprise Multi-Agent Intelligence Platform
-
-Autonomous multi-agent workflows, AutoML benchmarking, semantic RAG search, natural-language-to-SQL analytics, explainable machine learning and executive report generation.
-
-`TypeScript` · `LLMs` · `RAG` · `Multi-Agent AI` · `AutoML`
-
-<br/>
-
-<a href="https://github.com/Anis-h-coder/NexusAI-Enterprise-Multi-Agent-Intelligence-Platform">
-<img src="https://img.shields.io/badge/EXPLORE%20NEXUS%20AI-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=B8A1FF&center=true&vCenter=true&width=700&height=40&lines=Building+systems+that+read%2C+reason%2C+and+respond.;From+research+ideas+to+working+AI+products." />
 
 </div>
 
-<br/>
+<br>
+
+<!-- ===================== NEXUS AI ========================== -->
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td align="center">
 
-### 02 · LexAI
+### `01` — NEXUS AI
 
-**AI-Powered Legal Intelligence**
+<img src="https://img.shields.io/badge/FLAGSHIP%20PROJECT-B8A1FF?style=for-the-badge&labelColor=10141C&color=B8A1FF"/>
 
-Analyze legal documents, answer legal questions, summarize contracts, compare document versions and extract meaningful insights.
+<br><br>
 
-`JavaScript` · `LLMs` · `NLP`
+### Enterprise Multi-Agent Intelligence Platform
 
-<br/>
+Autonomous multi-agent workflows combined with **semantic RAG search, AutoML benchmarking, natural-language SQL, explainable ML and executive report generation.**
 
-<a href="https://github.com/Anis-h-coder/LexAI---AI-Powered-Legal-Intelligence-Platform">
-View Project ↗
+<br>
+
+<img src="https://img.shields.io/badge/TypeScript-10141C?style=flat-square&logo=typescript&logoColor=B8A1FF"/>
+<img src="https://img.shields.io/badge/LLMs-10141C?style=flat-square&color=B8A1FF"/>
+<img src="https://img.shields.io/badge/RAG-10141C?style=flat-square&color=B8A1FF"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20AI-10141C?style=flat-square&color=B8A1FF"/>
+<img src="https://img.shields.io/badge/AutoML-10141C?style=flat-square&color=B8A1FF"/>
+
+<br><br>
+
+<a href="https://github.com/Anis-h-coder/NexusAI-Enterprise-Multi-Agent-Intelligence-Platform">
+<img src="https://img.shields.io/badge/EXPLORE%20NEXUS%20AI-10141C?style=for-the-badge&logo=github&logoColor=B8A1FF"/>
 </a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 03 · Finlytics AI
-
-**Intelligent Personal Finance**
-
-ML-powered spending analysis, behavioral anomaly detection, predictive insights and Gemini-powered financial intelligence.
-
-`TypeScript` · `ML` · `Gemini`
-
-<br/>
-
-<a href="https://github.com/Anis-h-coder/Finlytics-AI-Intelligent-Personal-Finance-Analytics-Platform">
-View Project ↗
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 04 · QueryTalk AI
-
-**Natural Language → SQL**
-
-Transforms plain English into SQL queries, executes them securely and generates interactive visual analytics.
-
-`TypeScript` · `AI` · `SQL` · `Data Visualization`
-
-<br/>
-
-<a href="https://github.com/Anis-h-coder/QueryTalk-AI---AI-Powered-Natural-Language-to-SQL-Analytics-Assistant">
-View Project ↗
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 05 · Wanderlust AI
-
-**AI Travel & Tourism**
-
-Personalized travel planning and itinerary generation powered by Groq and LLaMA 3.3.
-
-`Flask` · `MySQL` · `Groq` · `LLaMA 3.3`
-
-<br/>
-
-<a href="https://github.com/Anis-h-coder/Wanderlust-AI-Travel-Tourism-Management-System">
-View Project ↗
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 06 · ArchaeoMap AI
-
-**Computer Vision for Soil & Vegetation**
-
-YOLO-based computer vision system for soil classification and vegetation detection from imagery.
-
-`Python` · `YOLO` · `Computer Vision`
-
-<br/>
-
-<a href="https://github.com/Anis-h-coder/ArchaeoMap-AI-YOLO-Based-Soil-Classification-and-Vegetation-Detection">
-View Project ↗
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ✦ More Coming
-
-**Always building something new.**
-
-Exploring advanced AI agents, RAG architectures, intelligent automation, multimodal AI and real-world AI applications.
-
-<br/>
-
-`Research` · `Experiment` · `Build`
 
 </td>
 
 </tr>
 </table>
 
+<br>
+
+<!-- ===================== PROJECT GRID ===================== -->
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `02` — LexAI
+
+**AI-Powered Legal Intelligence**
+
+Analyzes legal documents, answers legal questions, summarizes contracts, compares document versions and generates legal insights.
+
+<br>
+
+`JavaScript` · `LLMs` · `NLP`
+
+<br><br>
+
+<a href="https://github.com/Anis-h-coder/LexAI---AI-Powered-Legal-Intelligence-Platform">
+View Project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `03` — Finlytics AI
+
+**Intelligent Personal Finance**
+
+ML-powered spending analysis, behavioral anomaly detection, predictive insights and Gemini-powered financial intelligence.
+
+<br>
+
+`TypeScript` · `ML` · `Gemini`
+
+<br><br>
+
+<a href="https://github.com/Anis-h-coder/Finlytics-AI-Intelligent-Personal-Finance-Analytics-Platform">
+View Project →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `04` — QueryTalk AI
+
+**Natural Language → SQL**
+
+Transforms plain-English questions into SQL, executes them securely and generates interactive analytical visualizations.
+
+<br>
+
+`TypeScript` · `AI` · `SQL` · `Data Viz`
+
+<br><br>
+
+<a href="https://github.com/Anis-h-coder/QueryTalk-AI---AI-Powered-Natural-Language-to-SQL-Analytics-Assistant">
+View Project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `05` — Wanderlust AI
+
+**AI Travel & Tourism**
+
+Personalized travel planning and itinerary generation powered by Groq and LLaMA 3.3.
+
+<br>
+
+`Flask` · `MySQL` · `Groq` · `LLaMA 3.3`
+
+<br><br>
+
+<a href="https://github.com/Anis-h-coder/Wanderlust-AI-Travel-Tourism-Management-System">
+View Project →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `06` — ArchaeoMap AI
+
+**Computer Vision for Soil & Vegetation**
+
+YOLO-based computer vision system for soil classification and vegetation detection from imagery.
+
+<br>
+
+`Python` · `YOLO` · `Computer Vision`
+
+<br><br>
+
+<a href="https://github.com/Anis-h-coder/ArchaeoMap-AI-YOLO-Based-Soil-Classification-and-Vegetation-Detection">
+View Project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `07` — More Coming
+
+**Always building something new.**
+
+Exploring advanced AI agents, RAG architectures, intelligent automation and real-world AI applications.
+
+<br>
+
+`Research` · `Experiment` · `Build`
+
+<br><br>
+
+<a href="https://github.com/Anis-h-coder">
+Explore GitHub →
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
 ---
 
-# ✦ Currently Exploring
+<!-- ========================================================= -->
+<!--                  CURRENTLY EXPLORING                      -->
+<!-- ========================================================= -->
+
+## ✦ Currently Exploring
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&height=45&lines=Large+Language+Models;Agentic+AI+%26+Multi-Agent+Systems;Retrieval+Augmented+Generation;Advanced+Machine+Learning;AI+%2B+Real-World+Applications"
-     alt="Currently exploring animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=B8A1FF&center=true&vCenter=true&width=700&height=45&lines=Agentic+AI;Multi--Agent+Architectures;Advanced+RAG;AI+Evaluation;LLM+Systems;Intelligent+Automation" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AGENTIC%20AI-10141C?style=for-the-badge&color=B8A1FF"/>
+<img src="https://img.shields.io/badge/MULTI--AGENT%20SYSTEMS-10141C?style=for-the-badge&color=E8D8FF"/>
+<img src="https://img.shields.io/badge/ADVANCED%20RAG-10141C?style=for-the-badge&color=B8A1FF"/>
 
 </div>
 
-<br/>
+---
 
-<table>
-<tr>
-<td>
+<!-- ========================================================= -->
+<!--                     GITHUB ACTIVITY                       -->
+<!-- ========================================================= -->
 
-```text
-LEARNING
-──────────────
-LLMs
-RAG
-AI Agents
-Agentic Workflows
-Multimodal AI
+## ✦ GitHub Activity
+
+<div align="center">
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=Anis-h-coder&show_icons=true&hide_border=true&bg_color=090B10&title_color=F5F3EE&icon_color=B8A1FF&text_color=A7ADBA&ring_color=B8A1FF"/>
+
+<img width="49%"
+src="https://streak-stats.demolab.com/?user=Anis-h-coder&hide_border=true&background=090B10&stroke=252B36&ring=B8A1FF&fire=E8D8FF&currStreakLabel=B8A1FF&sideLabels=A7ADBA&currStreakNum=F5F3EE&sideNums=F5F3EE&dates=707784"/>
+
+<br><br>
+
+<img width="90%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Anis-h-coder&bg_color=090B10&color=A7ADBA&line=B8A1FF&point=E8D8FF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                       CONNECT                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## ✦ Let's Build Something Intelligent
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=22&duration=3500&pause=1000&color=F5F3EE&center=true&vCenter=true&width=650&height=45&lines=Have+an+idea%3F+Let's+turn+it+into+a+system.;Research+%E2%86%92+Prototype+%E2%86%92+Product." />
+
+<br><br>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-B8A1FF?style=for-the-badge&logo=linkedin&logoColor=090B10"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-E8D8FF?style=for-the-badge&logo=gmail&logoColor=090B10"/>
+</a>
+
+<a href="https://github.com/Anis-h-coder">
+<img src="https://img.shields.io/badge/GITHUB-F5F3EE?style=for-the-badge&logo=github&logoColor=090B10"/>
+</a>
+
+<br><br>
+
+<sub>
+<b>Building systems that read · reason · retrieve · predict · respond.</b>
+</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:181326,50:111522,100:090B10&section=footer"/>
+
+</div>
