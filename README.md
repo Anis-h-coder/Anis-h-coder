@@ -1,196 +1,374 @@
+<!-- ========================================================= -->
+<!--                    ANIS FATHIMA | GITHUB                  -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=46&pause=3000&color=C9A66B&center=true&vCenter=true&width=560&height=70&lines=Anis+Fathima" alt="Anis Fathima"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Jost&weight=400&size=16&duration=1&pause=100000&color=707487&center=true&vCenter=true&width=560&height=30&lines=AI+%26+Data+Science+%C2%B7+Chennai%2C+India" alt="AI & Data Science, Chennai, India"/>
+<img src="https://raw.githubusercontent.com/Anis-h-coder/Anis-h-coder/main/assets/profile-banner.png"
+     width="100%"
+     alt="Anis Fathima AI Portfolio"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Available%20for%20opportunities-0D1321?style=flat-square&labelColor=0D1321&color=1B1F2B&logoColor=C9A66B"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&height=45&lines=AI+%26+Data+Science+%7C+AIML+Developer;Building+Intelligent+AI+Systems;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;LLMs+%7C+RAG+%7C+AI+Agents+%7C+NLP"
+     alt="Typing animation"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,100:171A35&height=2&section=header"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-0B1020?style=for-the-badge&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/GenAI-0B1020?style=for-the-badge&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0B1020?style=for-the-badge&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/RAG-0B1020?style=for-the-badge&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/AI%20Agents-0B1020?style=for-the-badge&logoColor=22D3EE"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F2B,100:1B1F2B&height=2&section=header"/>
+---
+
+# ✦ About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Building AI that actually does something.
+
+I'm **Anis Fathima**, an **AI & Data Science student and AIML Developer** focused on building intelligent applications that combine **Machine Learning, Deep Learning, Generative AI and modern software engineering**.
+
+My work explores systems that can **read, reason, retrieve, analyze and respond** — from enterprise multi-agent platforms to RAG pipelines, natural-language analytics and AI-powered applications.
+
+I enjoy turning an idea into a working system:
+
+**Idea → Architecture → Model → Application → Impact**
 
 <br/>
 
-I design and build systems at the intersection of **large language models, retrieval and applied machine learning** — the kind of software that reads, reasons, and answers back. My work moves from research notebook to working product: a RAG pipeline that actually retrieves the right passage, an agent workflow that hands off cleanly, a dashboard that turns a spreadsheet into a decision.
+🎓 **B.Tech — Artificial Intelligence & Data Science**
 
-I studied AI & Data Science at B. S. Abdur Rahman Crescent Institute of Science & Technology, and have carried that into internships at Infosys and the Edunet Foundation. What follows is a working record of that practice — not a highlight reel.
+📍 Chennai, India
 
-<br/>
+🧠 Interested in **AI, GenAI, LLMs, RAG & Agentic Systems**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F2B,100:1B1F2B&height=1&section=header"/>
+🚀 Currently building intelligent real-world applications.
 
-<br/>
+</td>
 
-## Focus
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+     width="320"
+     alt="Coding animation"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=350&height=35&lines=Think+%E2%86%92+Build+%E2%86%92+Learn;Train+%E2%86%92+Deploy+%E2%86%92+Improve;Explore+%E2%86%92+Experiment+%E2%86%92+Innovate"
+     alt="Learning animation"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# ✦ Focus Areas
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Large%20Language%20Models-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logoColor=C9A66B"/>
-<img src="https://img.shields.io/badge/Retrieval%20Augmented%20Generation-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logoColor=C9A66B"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logoColor=C9A66B"/>
+<table>
+<tr>
+
+<td align="center" width="16%">
 <br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logoColor=C9A66B"/>
-<img src="https://img.shields.io/badge/Natural%20Language%20to%20SQL-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logoColor=C9A66B"/>
-<img src="https://img.shields.io/badge/Predictive%20Analytics-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logoColor=C9A66B"/>
+<img src="https://skillicons.dev/icons?i=openai" width="45"/>
+<br/><br/>
+<b>Large Language<br/>Models</b>
+<br/><br/>
+</td>
+
+<td align="center" width="16%">
+<br/>
+<img src="https://img.icons8.com/fluency/48/search.png" width="45"/>
+<br/><br/>
+<b>RAG &<br/>Retrieval</b>
+<br/><br/>
+</td>
+
+<td align="center" width="16%">
+<br/>
+<img src="https://img.icons8.com/fluency/48/bot.png" width="45"/>
+<br/><br/>
+<b>AI<br/>Agents</b>
+<br/><br/>
+</td>
+
+<td align="center" width="16%">
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="45"/>
+<br/><br/>
+<b>Machine<br/>Learning</b>
+<br/><br/>
+</td>
+
+<td align="center" width="16%">
+<br/>
+<img src="https://img.icons8.com/fluency/48/database.png" width="45"/>
+<br/><br/>
+<b>NL → SQL<br/>Analytics</b>
+<br/><br/>
+</td>
+
+<td align="center" width="16%">
+<br/>
+<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="45"/>
+<br/><br/>
+<b>Predictive<br/>Analytics</b>
+<br/><br/>
+</td>
+
+</tr>
+</table>
 
 </div>
 
-<br/>
+---
 
-## Toolkit
+# ✦ Technology Universe
 
-**Languages & Core**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark"/>
+### `01` — Languages
 
-**Machine Learning & Deep Learning**
-<br/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,c&theme=dark"/>
+
+</div>
+
+### `02` — AI / Machine Learning
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
 
-**Generative AI**
-<br/>
-<img src="https://img.shields.io/badge/LLM%20Applications-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logoColor=C9A66B"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logoColor=C9A66B"/>
-<img src="https://img.shields.io/badge/Groq%20%2F%20LLaMA-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logoColor=C9A66B"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logoColor=C9A66B"/>
+<br/><br/>
 
-**Data & Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,flask,django&theme=dark"/>
-
-**Visualization**
-<br/>
-<img src="https://img.shields.io/badge/Power%20BI-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logoColor=C9A66B"/>
-<img src="https://img.shields.io/badge/Tableau-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logoColor=C9A66B"/>
-<img src="https://img.shields.io/badge/Plotly-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logoColor=C9A66B"/>
-
-**Infrastructure**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,azure,postman&theme=dark"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F2B,100:1B1F2B&height=1&section=header"/>
-
-<br/>
-
-## Selected Work
-
-<table>
-<tr>
-<td width="30%"><strong>Nexus AI</strong><br/><sub>Enterprise multi-agent intelligence platform</sub></td>
-<td>Autonomous agent workflows, AutoML benchmarking, semantic RAG search, natural language to SQL, and executive-ready report generation.</td>
-</tr>
-<tr>
-<td><em>TypeScript · LLMs · RAG · Multi-Agent AI</em></td>
-<td align="right"><a href="https://github.com/Anis-h-coder/NexusAI-Enterprise-Multi-Agent-Intelligence-Platform">View →</a></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="30%"><strong>Lex AI</strong><br/><sub>Legal intelligence platform</sub></td>
-<td>Reads contracts and legal filings, compares documents, summarizes clauses, and answers legal queries in plain language.</td>
-</tr>
-<tr>
-<td><em>JavaScript · LLMs · NLP</em></td>
-<td align="right"><a href="https://github.com/Anis-h-coder/LexAI---AI-Powered-Legal-Intelligence-Platform">View →</a></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="30%"><strong>Finlytics AI</strong><br/><sub>Personal finance analytics</sub></td>
-<td>Tracks spending patterns, flags behavioral anomalies, and surfaces Gemini-powered financial insight from raw transaction data.</td>
-</tr>
-<tr>
-<td><em>TypeScript · Machine Learning · Google Gemini</em></td>
-<td align="right"><a href="https://github.com/Anis-h-coder/Finlytics-AI-Intelligent-Personal-Finance-Analytics-Platform">View →</a></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="30%"><strong>QueryTalk AI</strong><br/><sub>Natural language to SQL assistant</sub></td>
-<td>Turns a plain-English question into a SQL query and a chart — "show my highest revenue products" becomes an answer, not a JOIN.</td>
-</tr>
-<tr>
-<td><em>TypeScript · AI · SQL · Data Visualization</em></td>
-<td align="right"><a href="https://github.com/Anis-h-coder/QueryTalk-AI---AI-Powered-Natural-Language-to-SQL-Analytics-Assistant">View →</a></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="30%"><strong>Wanderlust AI</strong><br/><sub>Travel & tourism management</sub></td>
-<td>Groq and LLaMA 3.3 personalize a trip itinerary end to end, from first search to final plan.</td>
-</tr>
-<tr>
-<td><em>Flask · MySQL · Groq · LLaMA 3.3</em></td>
-<td align="right"><a href="https://github.com/Anis-h-coder/Wanderlust-AI-Travel-Tourism-Management-System">View →</a></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="30%"><strong>ArchaeoMap AI</strong><br/><sub>Computer vision for soil & vegetation</sub></td>
-<td>A YOLO-based detector classifying soil type and vegetation cover from aerial and ground imagery.</td>
-</tr>
-<tr>
-<td><em>Python · YOLO · Computer Vision</em></td>
-<td align="right"><a href="https://github.com/Anis-h-coder/ArchaeoMap-AI-YOLO-Based-Soil-Classification-and-Vegetation-Detection">View →</a></td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F2B,100:1B1F2B&height=1&section=header"/>
-
-<br/>
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anis-h-coder&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1321&title_color=C9A66B&icon_color=C9A66B&text_color=F2EFE9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anis-h-coder&hide_border=true&background=0D1321&stroke=1B1F2B&ring=C9A66B&fire=C9A66B&currStreakLabel=C9A66B&sideLabels=F2EFE9&currStreakNum=F2EFE9&sideNums=F2EFE9&dates=707487"/>
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-111827?style=for-the-badge&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logoColor=818CF8"/>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F2B,100:1B1F2B&height=1&section=header"/>
-
-<br/>
-
-## Get in Touch
+### `03` — LLM Ecosystem
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logo=linkedin&logoColor=C9A66B"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logo=gmail&logoColor=C9A66B"/>
-</a>
-<a href="https://github.com/Anis-h-coder">
-<img src="https://img.shields.io/badge/GitHub-1B1F2B?style=flat-square&labelColor=1B1F2B&color=1B1F2B&logo=github&logoColor=C9A66B"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-111827?style=for-the-badge&logo=google&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge&logoColor=F97316"/>
+<img src="https://img.shields.io/badge/LLaMA-111827?style=for-the-badge&logo=meta&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logoColor=A78BFA"/>
+
+</div>
+
+### `04` — Backend / Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flask,django,postgres,mysql,sqlite&theme=dark"/>
+
+</div>
+
+### `05` — Analytics
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Plotly-111827?style=for-the-badge&logo=plotly&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=60A5FA"/>
+
+</div>
+
+### `06` — Tools & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,azure&theme=dark"/>
+
+</div>
+
+---
+
+# ✦ Featured Projects
+
+<div align="center">
+
+## 01 · NexusAI
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:312E81&height=3&section=header"/>
+
+### Enterprise Multi-Agent Intelligence Platform
+
+Autonomous multi-agent workflows, AutoML benchmarking, semantic RAG search, natural-language-to-SQL analytics, explainable machine learning and executive report generation.
+
+`TypeScript` · `LLMs` · `RAG` · `Multi-Agent AI` · `AutoML`
+
+<br/>
+
+<a href="https://github.com/Anis-h-coder/NexusAI-Enterprise-Multi-Agent-Intelligence-Platform">
+<img src="https://img.shields.io/badge/EXPLORE%20NEXUS%20AI-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 <br/>
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 02 · LexAI
+
+**AI-Powered Legal Intelligence**
+
+Analyze legal documents, answer legal questions, summarize contracts, compare document versions and extract meaningful insights.
+
+`JavaScript` · `LLMs` · `NLP`
+
+<br/>
+
+<a href="https://github.com/Anis-h-coder/LexAI---AI-Powered-Legal-Intelligence-Platform">
+View Project ↗
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 03 · Finlytics AI
+
+**Intelligent Personal Finance**
+
+ML-powered spending analysis, behavioral anomaly detection, predictive insights and Gemini-powered financial intelligence.
+
+`TypeScript` · `ML` · `Gemini`
+
+<br/>
+
+<a href="https://github.com/Anis-h-coder/Finlytics-AI-Intelligent-Personal-Finance-Analytics-Platform">
+View Project ↗
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 04 · QueryTalk AI
+
+**Natural Language → SQL**
+
+Transforms plain English into SQL queries, executes them securely and generates interactive visual analytics.
+
+`TypeScript` · `AI` · `SQL` · `Data Visualization`
+
+<br/>
+
+<a href="https://github.com/Anis-h-coder/QueryTalk-AI---AI-Powered-Natural-Language-to-SQL-Analytics-Assistant">
+View Project ↗
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 05 · Wanderlust AI
+
+**AI Travel & Tourism**
+
+Personalized travel planning and itinerary generation powered by Groq and LLaMA 3.3.
+
+`Flask` · `MySQL` · `Groq` · `LLaMA 3.3`
+
+<br/>
+
+<a href="https://github.com/Anis-h-coder/Wanderlust-AI-Travel-Tourism-Management-System">
+View Project ↗
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 06 · ArchaeoMap AI
+
+**Computer Vision for Soil & Vegetation**
+
+YOLO-based computer vision system for soil classification and vegetation detection from imagery.
+
+`Python` · `YOLO` · `Computer Vision`
+
+<br/>
+
+<a href="https://github.com/Anis-h-coder/ArchaeoMap-AI-YOLO-Based-Soil-Classification-and-Vegetation-Detection">
+View Project ↗
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✦ More Coming
+
+**Always building something new.**
+
+Exploring advanced AI agents, RAG architectures, intelligent automation, multimodal AI and real-world AI applications.
+
+<br/>
+
+`Research` · `Experiment` · `Build`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ✦ Currently Exploring
+
 <div align="center">
-<sub><em>Building systems that read, reason, and respond.</em></sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&height=45&lines=Large+Language+Models;Agentic+AI+%26+Multi-Agent+Systems;Retrieval+Augmented+Generation;Advanced+Machine+Learning;AI+%2B+Real-World+Applications"
+     alt="Currently exploring animation"/>
+
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B1F2B,100:1B1F2B&height=2&section=footer"/>
+<table>
+<tr>
+<td>
+
+```text
+LEARNING
+──────────────
+LLMs
+RAG
+AI Agents
+Agentic Workflows
+Multimodal AI
