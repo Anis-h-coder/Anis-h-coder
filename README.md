@@ -1,5 +1,7 @@
 <!-- ===================== HERO ===================== -->
 
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=52&pause=2500&color=E9D5FF&center=true&vCenter=true&width=800&height=80&lines=Anis+Fathima" alt="Anis Fathima"/>
 
 <br>
@@ -15,6 +17,8 @@
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:0F766E&height=130&section=header"/>
+
+</div>
 
 
 ---
