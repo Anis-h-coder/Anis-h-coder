@@ -1,18 +1,21 @@
 <!-- ===================== HERO ===================== -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,45:111827,75:1E1B4B,100:080B12&height=180&section=header&text=ANIS%20FATHIMA&fontSize=52&fontColor=F8FAFC&fontAlignY=42&desc=AI%20%26%20DATA%20SCIENCE%20%20%7C%20%20AI%20%26%20ML%20ENGINEER&descAlignY=67&descSize=15&descColor=A5B4FC"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&height=35&lines=Building+intelligent+systems+that+read+%C2%B7+reason+%C2%B7+retrieve+%C2%B7+predict;Generative+AI+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+Machine+Learning;Turning+AI+ideas+into+working+products." />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=52&pause=2500&color=E9D5FF&center=true&vCenter=true&width=800&height=80&lines=Anis+Fathima" alt="Anis Fathima"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-111827?style=for-the-badge&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/Chennai%2C%20India-111827?style=for-the-badge&logo=googlemaps&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/Open%20to%20Opportunities-111827?style=for-the-badge&logoColor=A5B4FC"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=100000&color=A7F3D0&center=true&vCenter=true&width=800&height=35&lines=AI+%26+Data+Science+%7C+Generative+AI+%7C+Machine+Learning" alt="AI & Data Science"/>
 
-</div>
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-0B1020?style=for-the-badge&labelColor=0B1020&color=1E293B"/>
+<img src="https://img.shields.io/badge/Generative%20AI-0B1020?style=for-the-badge&labelColor=0B1020&color=1E293B"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0B1020?style=for-the-badge&labelColor=0B1020&color=1E293B"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:0F766E&height=130&section=header"/>
+
 
 ---
 
