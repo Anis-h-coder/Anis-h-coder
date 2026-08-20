@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:080A10,45:111522,75:171329,100:080A10&section=header&text=ANIS%20FATHIMA&fontSize=52&fontColor=F7F5F2&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%E2%80%A2%20AI%2FML%20ENGINEER&descAlignY=60&descSize=14&descColor=C7B7FF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:080A10,45:111522,75:171329,100:080A10&section=header&text=ANIS%20FATHIMA&fontSize=52&fontColor=F7F5F2&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%E2%80%A2%20AI%2FML%20ENGINEER&descAlignY=60&descSize=14&descColor=C7B7FF&animation=fadeIn" width="100%" alt="ANIS FATHIMA"/>
 
 <table>
 <tr>
