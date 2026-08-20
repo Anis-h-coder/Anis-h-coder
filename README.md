@@ -140,7 +140,7 @@ Currently exploring **RAG pipelines, AI agents, LLM applications, intelligent se
 
 ### `01` · Programming
 
-<div align="center">
+<div>
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark" height="42"/>
 
@@ -150,7 +150,7 @@ Currently exploring **RAG pipelines, AI agents, LLM applications, intelligent se
 
 ### `02` · Machine Learning & AI
 
-<div align="center">
+<div>
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" height="42"/>
 
@@ -160,7 +160,7 @@ Currently exploring **RAG pipelines, AI agents, LLM applications, intelligent se
 
 ### `03` · Generative AI
 
-<div align="center">
+<div>
 
 <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square"/>
 <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square"/>
@@ -179,7 +179,7 @@ Currently exploring **RAG pipelines, AI agents, LLM applications, intelligent se
 
 ### `04` · Frameworks & Tools
 
-<div align="center">
+<div>
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,react,git,github,jupyter&theme=dark" height="40"/>
 
@@ -189,7 +189,7 @@ Currently exploring **RAG pipelines, AI agents, LLM applications, intelligent se
 
 ### `05` · Professional
 
-<div align="center">
+<div>
 
 `Communication` · `Problem Solving` · `Analytical Thinking` · `Team Player` · `Quick Learner`
 
