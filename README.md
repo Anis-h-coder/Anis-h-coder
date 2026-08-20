@@ -1,46 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=ANIS%20AI%20LAB&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=INTELLIGENT%20SYSTEMS%20%7C%20AI%20%26%20DATA%20SCIENCE&descAlignY=58&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=300&section=header&text=ANIS%20AI%20LAB&fontSize=58&fontColor=E9E4FF&animation=fadeIn&fontAlignY=35&desc=INTELLIGENT%20SYSTEMS%20%E2%80%A2%20AI%20%26%20DATA%20SCIENCE&descAlignY=58&descSize=18&descColor=A594F9"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Initializing+Artificial+Intelligence+Lab...;Multi-Agent+Systems+%7C+RAG+%7C+LLMs;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+AI+Systems+That+Think%2C+Analyze+%26+Assist;Welcome+to+my+Digital+AI+Laboratory+%F0%9F%A4%96" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=B8A6FF&center=true&vCenter=true&width=880&lines=Initializing+Artificial+Intelligence+Lab...;Multi-Agent+Systems+%7C+RAG+%7C+LLMs;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+AI+Systems+That+Think%2C+Analyze+%26+Assist;Welcome+to+my+Digital+AI+Laboratory" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ACTIVE-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20ENGINEERING-ONLINE-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUILDING-INTELLIGENT%20SYSTEMS-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SYSTEM-ACTIVE-6C4FE0?style=for-the-badge&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/AI%20ENGINEERING-ONLINE-8467E8?style=for-the-badge&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/BUILDING-INTELLIGENT%20SYSTEMS-9C7EF0?style=for-the-badge&labelColor=0F0C29"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243E&height=2&section=header"/>
 
 # 🧠 `SYSTEM.IDENTITY`
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   > INITIALIZING USER PROFILE...                            │
-│                                                             │
-│   NAME        : ANIS FATHIMA                                │
-│   DOMAIN      : ARTIFICIAL INTELLIGENCE & DATA SCIENCE      │
-│   ROLE        : AIML DEVELOPER                              │
-│   STATUS      : BUILDING                                    │
-│                                                             │
-│   CORE        : AI • ML • DL • GenAI • NLP                  │
-│   SPECIALTY   : RAG • AI AGENTS • MULTI-AGENT SYSTEMS      │
-│   ANALYTICS   : ML • Predictive Analytics • NL-to-SQL       │
-│                                                             │
-│   MISSION     : Turn complex problems into intelligent       │
-│                 software systems.                           │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════╗
+║                                                             ║
+║   > INITIALIZING USER PROFILE...                           ║
+║                                                             ║
+║   NAME        : ANIS FATHIMA                                ║
+║   DOMAIN      : ARTIFICIAL INTELLIGENCE & DATA SCIENCE      ║
+║   ROLE        : AIML DEVELOPER                              ║
+║   STATUS      : BUILDING                                    ║
+║                                                             ║
+║   CORE        : AI • ML • DL • GenAI • NLP                  ║
+║   SPECIALTY   : RAG • AI AGENTS • MULTI-AGENT SYSTEMS        ║
+║   ANALYTICS   : ML • Predictive Analytics • NL-to-SQL        ║
+║                                                             ║
+║   MISSION     : Turn complex problems into intelligent      ║
+║                 software systems.                           ║
+║                                                             ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 > **I don't just learn AI. I build systems with it.**
 
 I'm an **AI & Data Science student and aspiring AIML Developer** exploring the intersection of **Machine Learning, Generative AI, LLMs, RAG, Multi-Agent Systems and intelligent analytics**.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243E&height=2"/>
 
 # ⚡ `AI.CAPABILITIES`
 
@@ -55,48 +55,76 @@ I'm an **AI & Data Science student and aspiring AIML Developer** exploring the i
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243E&height=2"/>
 
 # 🧬 `TECHNOLOGY.MATRIX`
 
-### `AI CORE`
+<div align="center">
 
-`Python` · `Scikit-learn` · `TensorFlow` · `Keras` · `PyTorch`
+**AI CORE**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch&theme=dark"/>
 
-### `GENERATIVE INTELLIGENCE`
+<br/><br/>
 
-`LLMs` · `Google Gemini` · `Groq` · `LLaMA` · `RAG` · `Prompt Engineering`
+**GENERATIVE INTELLIGENCE**
+<br/>
+<img src="https://img.shields.io/badge/LLMs-1a1533?style=for-the-badge&logo=openai&logoColor=B8A6FF"/>
+<img src="https://img.shields.io/badge/Google_Gemini-1a1533?style=for-the-badge&logo=googlegemini&logoColor=B8A6FF"/>
+<img src="https://img.shields.io/badge/Groq-1a1533?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciLz4=&logoColor=B8A6FF"/>
+<img src="https://img.shields.io/badge/RAG-1a1533?style=for-the-badge&logoColor=B8A6FF"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-1a1533?style=for-the-badge&logoColor=B8A6FF"/>
 
-### `INTELLIGENT SYSTEMS`
+<br/><br/>
 
-`Multi-Agent Systems` · `AI Agents` · `Semantic Search` · `NL-to-SQL` · `Explainable AI`
+**INTELLIGENT SYSTEMS**
+<br/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-1a1533?style=for-the-badge&logoColor=B8A6FF"/>
+<img src="https://img.shields.io/badge/AI_Agents-1a1533?style=for-the-badge&logoColor=B8A6FF"/>
+<img src="https://img.shields.io/badge/Semantic_Search-1a1533?style=for-the-badge&logoColor=B8A6FF"/>
+<img src="https://img.shields.io/badge/NL--to--SQL-1a1533?style=for-the-badge&logoColor=B8A6FF"/>
+<img src="https://img.shields.io/badge/Explainable_AI-1a1533?style=for-the-badge&logoColor=B8A6FF"/>
 
-### `DATA ENGINEERING`
+<br/><br/>
 
-`Pandas` · `NumPy` · `SQL` · `PostgreSQL` · `MySQL` · `SQLite`
+**DATA ENGINEERING**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,postgres,mysql,sqlite&theme=dark"/>
+<img src="https://img.shields.io/badge/Pandas-1a1533?style=for-the-badge&logo=pandas&logoColor=B8A6FF"/>
+<img src="https://img.shields.io/badge/NumPy-1a1533?style=for-the-badge&logo=numpy&logoColor=B8A6FF"/>
 
-### `APPLICATION ENGINEERING`
+<br/><br/>
 
-`TypeScript` · `JavaScript` · `Python` · `Django` · `Flask` · `REST APIs`
+**APPLICATION ENGINEERING**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,django,flask&theme=dark"/>
 
-### `VISUAL INTELLIGENCE`
+<br/><br/>
 
-`Power BI` · `Tableau` · `Matplotlib` · `Seaborn` · `Plotly`
+**VISUAL INTELLIGENCE**
+<br/>
+<img src="https://img.shields.io/badge/Power_BI-1a1533?style=for-the-badge&logo=powerbi&logoColor=B8A6FF"/>
+<img src="https://img.shields.io/badge/Tableau-1a1533?style=for-the-badge&logo=tableau&logoColor=B8A6FF"/>
+<img src="https://img.shields.io/badge/Matplotlib-1a1533?style=for-the-badge&logo=plotly&logoColor=B8A6FF"/>
+<img src="https://img.shields.io/badge/Seaborn-1a1533?style=for-the-badge&logoColor=B8A6FF"/>
+<img src="https://img.shields.io/badge/Plotly-1a1533?style=for-the-badge&logo=plotly&logoColor=B8A6FF"/>
 
-### `DEVELOPER INFRASTRUCTURE`
+<br/><br/>
 
-`Git` · `GitHub` · `VS Code` · `Postman` · `AWS` · `Azure`
+**DEVELOPER INFRASTRUCTURE**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,azure&theme=dark"/>
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243E&height=2"/>
 
 # 🚀 `PROJECT.DEPLOYMENT.CENTER`
 
 ### `01 // NEXUS AI`
 
 <a href="https://github.com/Anis-h-coder/NexusAI-Enterprise-Multi-Agent-Intelligence-Platform">
-
-<img src="https://img.shields.io/badge/NEXUS%20AI-ENTERPRISE%20MULTI--AGENT%20INTELLIGENCE-7C3AED?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/NEXUS%20AI-ENTERPRISE%20MULTI--AGENT%20INTELLIGENCE-5B3EBD?style=for-the-badge&labelColor=0F0C29"/>
 </a>
 
 ```text
@@ -115,14 +143,12 @@ CAPABILITIES
 
 **Core:** `TypeScript` `LLMs` `RAG` `Multi-Agent AI` `AutoML`
 
----
+<br/>
 
 ### `02 // LEX AI`
 
 <a href="https://github.com/Anis-h-coder/LexAI---AI-Powered-Legal-Intelligence-Platform">
-
-<img src="https://img.shields.io/badge/LEX%20AI-LEGAL%20INTELLIGENCE-8B5CF6?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/LEX%20AI-LEGAL%20INTELLIGENCE-6C4FE0?style=for-the-badge&labelColor=0F0C29"/>
 </a>
 
 ```text
@@ -140,14 +166,12 @@ CAPABILITIES
 
 **Core:** `JavaScript` `LLMs` `NLP` `Generative AI`
 
----
+<br/>
 
 ### `03 // FINLYTICS AI`
 
 <a href="https://github.com/Anis-h-coder/Finlytics-AI-Intelligent-Personal-Finance-Analytics-Platform">
-
-<img src="https://img.shields.io/badge/FINLYTICS%20AI-INTELLIGENT%20FINANCE-A855F7?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/FINLYTICS%20AI-INTELLIGENT%20FINANCE-7C63E8?style=for-the-badge&labelColor=0F0C29"/>
 </a>
 
 ```text
@@ -166,14 +190,12 @@ CAPABILITIES
 
 **Core:** `TypeScript` `Machine Learning` `Predictive Analytics` `Google Gemini`
 
----
+<br/>
 
 ### `04 // QUERYTALK AI`
 
 <a href="https://github.com/Anis-h-coder/QueryTalk-AI---AI-Powered-Natural-Language-to-SQL-Analytics-Assistant">
-
-<img src="https://img.shields.io/badge/QUERYTALK%20AI-NATURAL%20LANGUAGE%20ANALYTICS-6D28D9?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/QUERYTALK%20AI-NATURAL%20LANGUAGE%20ANALYTICS-8C77F0?style=for-the-badge&labelColor=0F0C29"/>
 </a>
 
 ```text
@@ -187,28 +209,17 @@ USER
 "Show my highest revenue products"
   │
   ▼
-AI INTERPRETATION
-  │
-  ▼
-SQL GENERATION
-  │
-  ▼
-DATABASE
-  │
-  ▼
-VISUAL INSIGHT
+AI INTERPRETATION → SQL GENERATION → DATABASE → VISUAL INSIGHT
 ```
 
 **Core:** `TypeScript` `AI` `SQL` `Data Visualization`
 
----
+<br/>
 
 ### `05 // WANDERLUST AI`
 
 <a href="https://github.com/Anis-h-coder/Wanderlust-AI-Travel-Tourism-Management-System">
-
-<img src="https://img.shields.io/badge/WANDERLUST%20AI-TRAVEL%20INTELLIGENCE-7C3AED?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/WANDERLUST%20AI-TRAVEL%20INTELLIGENCE-9C8CF5?style=for-the-badge&labelColor=0F0C29"/>
 </a>
 
 ```text
@@ -221,14 +232,12 @@ EXPLORE → PLAN → PERSONALIZE → TRAVEL
 
 **Core:** `Flask` `MySQL` `Groq` `LLaMA 3.3` `AI`
 
----
+<br/>
 
 ### `06 // ARCHAEOMAP AI`
 
 <a href="https://github.com/Anis-h-coder/ArchaeoMap-AI-YOLO-Based-Soil-Classification-and-Vegetation-Detection">
-
-<img src="https://img.shields.io/badge/ARCHAEOMAP%20AI-COMPUTER%20VISION-4C1D95?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/ARCHAEOMAP%20AI-COMPUTER%20VISION-4A3499?style=for-the-badge&labelColor=0F0C29"/>
 </a>
 
 ```text
@@ -236,18 +245,12 @@ STATUS      : ● TRAINING
 DOMAIN      : COMPUTER VISION
 ENGINE      : YOLO
 
-IMAGE
-  ↓
-OBJECT DETECTION
-  ↓
-VEGETATION / SOIL
-  ↓
-CLASSIFICATION
+IMAGE → OBJECT DETECTION → VEGETATION / SOIL → CLASSIFICATION
 ```
 
 **Core:** `Python` `YOLO` `Computer Vision` `Deep Learning`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243E&height=2"/>
 
 # 🛰️ `SYSTEM.ARCHITECTURE`
 
@@ -285,34 +288,34 @@ CLASSIFICATION
                      └──────────────────┘
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243E&height=2"/>
 
 # 🔥 `CURRENTLY.BUILDING`
 
 ```text
-┌────────────────────────────────────────────┐
-│             DEVELOPMENT TERMINAL           │
-├────────────────────────────────────────────┤
-│                                            │
-│ > learning --genai                        │
-│   █████████████████████░░░ 85%             │
-│                                            │
-│ > exploring --agentic-ai                  │
-│   █████████████████░░░░░░ 75%              │
-│                                            │
-│ > building --rag-systems                   │
-│   ████████████████████░░░ 80%              │
-│                                            │
-│ > researching --llm-applications           │
-│   ██████████████████░░░░░ 70%              │
-│                                            │
-│ > mission --production-ai                  │
-│   RUNNING...                                │
-│                                            │
-└────────────────────────────────────────────┘
+╔════════════════════════════════════════════╗
+║             DEVELOPMENT TERMINAL           ║
+╠════════════════════════════════════════════╣
+║                                            ║
+║ > learning --genai                         ║
+║   █████████████████████░░░ 85%             ║
+║                                            ║
+║ > exploring --agentic-ai                    ║
+║   █████████████████░░░░░░ 75%              ║
+║                                            ║
+║ > building --rag-systems                    ║
+║   ████████████████████░░░ 80%              ║
+║                                            ║
+║ > researching --llm-applications            ║
+║   ██████████████████░░░░░ 70%              ║
+║                                            ║
+║ > mission --production-ai                   ║
+║   RUNNING...                                ║
+║                                            ║
+╚════════════════════════════════════════════╝
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243E&height=2"/>
 
 # 🧪 `RESEARCH.LAB`
 
@@ -333,21 +336,21 @@ Currently exploring:
 
 > **The goal isn't just to use AI. The goal is to understand how intelligent systems can be designed, connected and deployed.**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243E&height=2"/>
 
 # 📊 `GITHUB.ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anis-h-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anis-h-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0F0C29&title_color=B8A6FF&icon_color=8467E8&text_color=C9C3F0"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anis-h-coder&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anis-h-coder&theme=tokyonight&hide_border=true&background=0F0C29&stroke=302B63&ring=8467E8&fire=B8A6FF&currStreakLabel=B8A6FF"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243E&height=2"/>
 
 # 🧩 `ENGINEERING.PHILOSOPHY`
 
@@ -373,34 +376,34 @@ Currently exploring:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:24243E&height=2"/>
 
 # 🌐 `CONNECT.TO.ANIS`
 
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-1a1533?style=for-the-badge&logo=linkedin&logoColor=B8A6FF"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-1a1533?style=for-the-badge&logo=gmail&logoColor=B8A6FF"/>
 </a>
 
 <a href="https://github.com/Anis-h-coder">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-1a1533?style=for-the-badge&logo=github&logoColor=B8A6FF"/>
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=AI+is+not+just+technology.;It's+a+way+to+rethink+what's+possible.;Keep+Learning.+Keep+Building.+Keep+Innovating." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=B8A6FF&center=true&vCenter=true&width=780&lines=AI+is+not+just+technology.;It's+a+way+to+rethink+what's+possible.;Keep+Learning.+Keep+Building.+Keep+Innovating." />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=140&section=footer"/>
 
 </div>
