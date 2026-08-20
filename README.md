@@ -59,17 +59,8 @@ My work focuses on systems that can
 
 <br><br>
 
-<a href="https://github.com/Anis-h-coder">
-<img src="https://img.shields.io/badge/GITHUB-C7B7FF?style=for-the-badge&logo=github&logoColor=080A10"/>
-</a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-E7DEFF?style=for-the-badge&logo=linkedin&logoColor=080A10"/>
-</a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-F7F5F2?style=for-the-badge&logo=gmail&logoColor=080A10"/>
-</a>
 
 </div>
 
