@@ -138,29 +138,33 @@ Currently exploring **RAG pipelines, AI agents, LLM applications, intelligent se
 
 # ✦ Technology Universe
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### `01` · Programming
 
-<div>
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark" height="42"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark" height="38"/>
 
 <sub>Python · JavaScript · SQL · HTML · CSS</sub>
 
-</div>
+</td>
+
+<td width="50%" valign="top">
 
 ### `02` · Machine Learning & AI
 
-<div>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" height="38"/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" height="42"/>
+<sub>Deep Learning · Supervised · Unsupervised · NumPy · Pandas · NLP</sub>
 
-<sub>Deep Learning · Supervised Learning · Unsupervised Learning · NumPy · Pandas · NLP</sub>
+</td>
+</tr>
 
-</div>
+<tr>
+<td valign="top">
 
 ### `03` · Generative AI
-
-<div>
 
 <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square"/>
 <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square"/>
@@ -175,25 +179,29 @@ Currently exploring **RAG pipelines, AI agents, LLM applications, intelligent se
 <img src="https://img.shields.io/badge/Claude-111827?style=flat-square"/>
 <img src="https://img.shields.io/badge/Gemini-111827?style=flat-square"/>
 
-</div>
+</td>
+
+<td valign="top">
 
 ### `04` · Frameworks & Tools
 
-<div>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,git,github,jupyter&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,git,github,jupyter&theme=dark" height="38"/>
 
 <sub>FastAPI · Flask · React.js · REST APIs · Git · GitHub · Jupyter</sub>
 
-</div>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
 
 ### `05` · Professional
 
-<div>
-
 `Communication` · `Problem Solving` · `Analytical Thinking` · `Team Player` · `Quick Learner`
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
