@@ -357,11 +357,11 @@ Explore →
 </a>
 
 <a href="mailto:fanish050@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=flat-square&logo=gmail&logoColor=A5B4FC"/>
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 <a href="https://github.com/Anis-h-coder">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=flat-square&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <p>
