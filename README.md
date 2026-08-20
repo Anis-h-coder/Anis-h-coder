@@ -353,7 +353,7 @@ Explore →
 <br>
 
 <a href="https://www.linkedin.com/in/anish-fathima-n-425340300">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=flat-square&logo=linkedin&logoColor=67E8F9"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:fanish050@gmail.com">
