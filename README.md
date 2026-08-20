@@ -352,7 +352,7 @@ Explore →
 
 <br>
 
-<a href="["https://www.linkedin.com/in/anish-fathima-n-425340300">
+<a href="https://www.linkedin.com/in/anish-fathima-n-425340300">
 <img src="https://img.shields.io/badge/LINKEDIN-111827?style=flat-square&logo=linkedin&logoColor=67E8F9"/>
 </a>
 
