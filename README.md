@@ -4,7 +4,7 @@
 
 # ANISH FATHIMA
 
-### AI & Data Science · AI/ML Engineer
+### Artificial Intelligence & Data Science · AI/ML Engineer
 
 <table>
 <tr>
