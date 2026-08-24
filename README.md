@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# ANISH FATHIMA
+# ANISH FATHIMA N
 
-### Artificial Intelligence & Data Science · AI/ML Engineer
+### Artificial Intelligence & Data Science · AIML Engineer
 
 <table>
 <tr>
