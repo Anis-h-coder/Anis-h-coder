@@ -4,7 +4,7 @@
 
 # ANISH FATHIMA N
 
-### Artificial Intelligence & Data Science · AIML Engineer
+### Artificial Intelligence & Data Science · AI/ML Engineer
 
 <table>
 <tr>
@@ -55,7 +55,7 @@ I build intelligent applications at the intersection of
 
 ### Building AI that actually does something.
 
-I'm **Anis Fathima**, an **AI & Data Science** student focused on building practical intelligent systems across **Generative AI, Machine Learning, Deep Learning and Data Analytics**.
+I'm **Anish Fathima**, an **AI & Data Science** student focused on building practical intelligent systems across **Generative AI, Machine Learning, Deep Learning and Data Analytics**.
 
 `AI` → `Data` → `Systems` → `Products`
 
