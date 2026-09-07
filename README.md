@@ -340,16 +340,6 @@ Explore →
 
 ---
 
-# ✦ GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anis-h-coder&bg_color=080B12&color=CBD5E1&line=67E8F9&point=A5B4FC&area=true&hide_border=true&days=15"/>
-
-</div>
-
----
-
 # ✦ Let's Build Something Intelligent
 
 <div align="center">
