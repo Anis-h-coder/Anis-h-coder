@@ -228,7 +228,7 @@ Multi-agent platform combining **RAG, AutoML, NL-to-SQL and explainable ML.**
 
 `LLMs` · `RAG` · `Agents`
 
-<a href="https://github.com/Anis-h-coder/NexusAI-Enterprise-Multi-Agent-Intelligence-Platform">
+<a href="https://github.com/Anis-h-coder/NexusAI-Multi-Agent-Intelligence-Platform">
 Explore →
 </a>
 
