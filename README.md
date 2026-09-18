@@ -1,46 +1,59 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10&height=120&section=header" width="100%"/>
-  <br>
-  <img src="./assets/profile.png" width="110" style="border-radius:50%; border:2px solid #00E0FF"/>
-  <h3>🔴 🟡 🟢 &nbsp; anish@ai-engineer: ~</h3>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=500&color=00E0FF&center=true&vCenter=true&width=600&height=40&lines=%24+whoami;Anish+Fathima+N;AI+%26+Data+Science+Engineer;_"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=00FFA3&center=true&vCenter=true&width=500&height=50&lines=%24+whoami;Anish+Fathima+N;AI+%26+Data+Science+Engineer" alt="Typing SVG" />
 </div>
 
 <br>
 
-> **Mission:** Building intelligent systems across Generative AI, Machine Learning, Deep Learning, and Data Analytics — the kind that ship, not the kind that stay in a notebook.
+<div align="center">
+  <p><i>Building intelligent systems across Generative AI, Machine Learning, Deep Learning, and Data Analytics — the kind that ship, not the kind that stay in a notebook.</i></p>
+</div>
+
+<br>
 
 ---
 
-### 💻 Stack & Expertise
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,tensorflow,pytorch,sklearn,fastapi,flask,react,git,github,jupyter&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=python,js,mysql,tensorflow,pytorch,sklearn,fastapi,flask,react,git,github,jupyter&perline=7" />
   <br><br>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=00E0FF&logo=langchain"/>
-  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logoColor=00E0FF&logo=graphql"/>
-  <img src="https://img.shields.io/badge/RAG-121212?style=for-the-badge&logoColor=FF6EC7&logo=databricks"/>
-  <img src="https://img.shields.io/badge/ChromaDB-121212?style=for-the-badge&logoColor=00FFA3&logo=databricks"/>
-  <img src="https://img.shields.io/badge/Pinecone-121212?style=for-the-badge&logoColor=FFE156&logo=pinecone"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-121212?style=for-the-badge&logoColor=FFD21E&logo=huggingface"/>
+  <p>
+    <code>LangChain</code> • <code>LangGraph</code> • <code>RAG</code> • <code>ChromaDB</code> • <code>Pinecone</code> • <code>FAISS</code> • <code>Hugging Face</code>
+  </p>
 </div>
 
 ---
 
 ### 🚀 Projects
 
-| Project | Domain | Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **🧠 NexusAI** | Enterprise AI | LLMs, RAG, Agents | [Repo](#) |
-| **⚖️ LexAI** | Legal Intelligence | NLP, Legal AI | [Repo](#) |
-| **💰 Finlytics AI** | Personal Finance | ML, Gemini | [Repo](#) |
-| **🗣️ QueryTalk AI** | NL → SQL | AI, SQL | [Repo](#) |
-| **✈️ Wanderlust AI** | Travel Intelligence | Groq, LLaMA | [Repo](#) |
-| **🛰️ ArchaeoMap AI** | Computer Vision | YOLO, CV | [Repo](#) |
+* **🧠 NexusAI** — Enterprise AI Multi-agent platform 
+  `LLMs` · `RAG` · `Agents`
+  
+* **⚖️ LexAI** — Legal Intelligence & Contract Analysis 
+  `NLP` · `Legal AI`
+  
+* **💰 Finlytics AI** — Personal Finance & Anomaly Detection 
+  `ML` · `Gemini`
+  
+* **🗣️ QueryTalk AI** — Natural Language to SQL Pipeline 
+  `AI` · `SQL`
+  
+* **✈️ Wanderlust AI** — Travel Intelligence Engine 
+  `Groq` · `LLaMA`
+  
+* **🛰️ ArchaeoMap AI** — Computer Vision Mapping 
+  `YOLO` · `CV`
+
+---
+
+### ⚡ Training & Focus Areas
+
+* 🟢 **Ready:** Agentic AI Systems • Advanced RAG Architectures
+* 🟡 **In Progress:** Multi-Agent Orchestration • LLM Evaluation & Guardrails
+* 🔵 **Queued:** AI Product Engineering
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10&height=100&section=footer" width="100%"/>
+  <sub>Anish Fathima N • AI & Data Science Engineer</sub>
 </div>
