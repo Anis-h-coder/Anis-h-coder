@@ -1,367 +1,207 @@
-<!-- ===================== HERO ===================== -->
-
 <div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  MODEL CARD                                              │
+│  anish-fathima-n / ai-engineer                           │
+└─────────────────────────────────────────────────────────┘
+```
+
+<img src="./assets/profile.png" width="120" alt="Anish Fathima N" style="border-radius:50%"/>
 
 # ANISH FATHIMA N
-
-### Artificial Intelligence & Data Science · AI/ML Engineer
-
-<table>
-<tr>
-
-<td width="30%" align="center" valign="middle">
-
-<img src="./assets/profile.png" width="170" alt="Anis Fathima"/>
+### `class AIEngineer(HumanIntelligence):`
 
 <br>
 
-<img src="https://img.shields.io/badge/AI%20%26%20DATA%20SCIENCE-111522?style=flat-square&color=C7B7FF"/>
-
-</td>
-
-<td width="70%" align="left" valign="middle">
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=27&duration=3500&pause=1000&color=F7F5F2&left=true&vCenter=true&width=560&height=48&lines=Building+Intelligent+Systems;Designing+AI+%26+ML+Products;Exploring+Generative+AI;Turning+Data+into+Decisions"/>
-
-<p>
-I build intelligent applications at the intersection of
-<b>Artificial Intelligence, Machine Learning, Generative AI and Data.</b>
-</p>
-
-<p>
-<b>Read · Reason · Retrieve · Predict · Explain · Respond.</b>
-</p>
-
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-111522?style=flat-square&color=C7B7FF"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-111522?style=flat-square&color=C7B7FF"/>
-<img src="https://img.shields.io/badge/RAG-111522?style=flat-square&color=C7B7FF"/>
-<img src="https://img.shields.io/badge/AI%20AGENTS-111522?style=flat-square&color=C7B7FF"/>
-
-</td>
-
-</tr>
-</table>
+| | |
+|---|---|
+| **Developed by** | Anish Fathima N |
+| **Model type** | AI / ML Engineer · Generative AI Specialist |
+| **Base architecture** | B.Tech, Artificial Intelligence & Data Science |
+| **Languages** | Python, SQL, JavaScript |
+| **Status** | `● training complete` `● accepting new deployments` |
+| **Contact endpoint** | [linkedin](https://www.linkedin.com/in/anish-fathima-n-425340300) · [email](mailto:fanish050@gmail.com) · [github](https://github.com/Anis-h-coder) |
 
 </div>
-
----
-
-# ✦ About Me
-
-<table>
-<tr>
-
-<td width="65%" valign="top">
-
-### Building AI that actually does something.
-
-I'm **Anish Fathima**, an **AI & Data Science** student focused on building practical intelligent systems across **Generative AI, Machine Learning, Deep Learning and Data Analytics**.
-
-`AI` → `Data` → `Systems` → `Products`
-
-Currently exploring **RAG pipelines, AI agents, LLM applications, intelligent search, predictive analytics and AI automation.**
-
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img src="https://img.icons8.com/fluency/120/artificial-intelligence.png" width="90"/>
 
 <br>
 
-<sub><b>Learn → Build → Experiment → Improve</b></sub>
+## 01 — Model Description
 
-</td>
+> Trained to read, reason, retrieve, predict, explain and respond.
+> Specializes in turning unstructured problems into deployed, working systems —
+> not just notebooks that end at 90% accuracy.
 
-</tr>
-</table>
+I build at the intersection of **Generative AI, Machine Learning, and applied Data Science**. Most of my work follows the same pipeline: understand the data, choose the right architecture, ship something a real user could actually open.
 
----
+<br>
 
-# ✦ Expertise
+## 02 — Architecture
 
-<div align="center">
+```mermaid
+flowchart LR
+    A["Raw Data"] --> B["Preprocessing<br/>Pandas · NumPy"]
+    B --> C["Modeling"]
+    C --> C1["Classical ML<br/>Scikit-learn"]
+    C --> C2["Deep Learning<br/>TensorFlow · PyTorch"]
+    C --> C3["Generative AI<br/>LangChain · RAG · Agents"]
+    C1 --> D["Serving Layer<br/>FastAPI · Flask"]
+    C2 --> D
+    C3 --> D
+    D --> E["Product<br/>Web App / API"]
+
+    style A fill:#111827,stroke:#A5B4FC,color:#F8FAFC
+    style E fill:#1E1B4B,stroke:#C7B7FF,color:#F8FAFC
+```
+
+<br>
+
+## 03 — Capabilities
 
 <table>
-<tr>
+<tr><td width="50%" valign="top">
 
-<td width="33%" align="center">
+**Generative AI & LLM Systems**
+```
+LangChain / LangGraph   ████████████░░  85%
+RAG Pipelines           ███████████░░░  80%
+AI Agents               ██████████░░░░  75%
+Vector Search (FAISS,
+ChromaDB, Pinecone)     ███████████░░░  80%
+Prompt Engineering      █████████████░  90%
+```
 
-### Generative AI
-<sub>LLMs · RAG · Prompt Engineering</sub>
+**Machine Learning**
+```
+Supervised Learning     █████████████░  90%
+Unsupervised Learning   ███████████░░░  80%
+Deep Learning (DL)      ███████████░░░  80%
+Model Evaluation        ████████████░░  85%
+```
 
-</td>
+</td><td width="50%" valign="top">
 
-<td width="33%" align="center">
+**NLP & Computer Vision**
+```
+Text Intelligence / NLP ███████████░░░  80%
+YOLO / Object Detection ██████████░░░░  75%
+Image Understanding     ██████████░░░░  75%
+```
 
-### AI Agents
-<sub>LangGraph · Multi-Agent Systems</sub>
+**Engineering**
+```
+Python                  █████████████░  90%
+SQL                     ████████████░░  85%
+FastAPI / Flask         ███████████░░░  80%
+React.js                █████████░░░░░  70%
+Git / GitHub            ████████████░░  85%
+```
 
-</td>
-
-<td width="33%" align="center">
-
-### Intelligent Search
-<sub>Vector Search · Embeddings</sub>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### Machine Learning
-<sub>Prediction · Classification · Analytics</sub>
-
-</td>
-
-<td align="center">
-
-### NLP
-<sub>Text Intelligence · Language Models</sub>
-
-</td>
-
-<td align="center">
-
-### Computer Vision
-<sub>YOLO · Detection · Image Understanding</sub>
-
-</td>
-
-</tr>
+</td></tr>
 </table>
 
-</div>
+<sub>Self-reported scores. Evaluated informally, on real projects, not benchmarks.</sub>
 
----
+<br>
 
-# ✦ Technology Universe
+## 04 — Deployments
+
+<sub>Live checkpoints from training. Each one solves an actual problem.</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <sub>01</sub> · Programming
+**`nexus-ai`** `● multi-agent`
+Enterprise platform combining RAG, AutoML, NL-to-SQL and explainable ML in one agentic system.
+`LLMs` `RAG` `Agents`
+[→ inspect checkpoint](https://github.com/Anis-h-coder/NexusAI-Multi-Agent-Intelligence-Platform)
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark" height="38"/>
+---
 
-<small>Python · JavaScript · SQL · HTML · CSS</small>
+**`finlytics-ai`** `● analytics`
+Personal finance intelligence — spending analysis, anomaly detection, spend forecasting.
+`ML` `Gemini` `Analytics`
+[→ inspect checkpoint](https://github.com/Anis-h-coder/Finlytics-AI-Intelligent-Personal-Finance-Analytics-Platform)
+
+---
+
+**`wanderlust-ai`** `● travel`
+Travel intelligence system for destination discovery, booking flows and itinerary generation.
+`Groq` `LLaMA` `Flask`
+[→ inspect checkpoint](https://github.com/Anis-h-coder/Wanderlust-AI-Travel-Tourism-Management-System)
 
 </td>
-
 <td width="50%" valign="top">
 
-### <sub>02</sub> · Machine Learning & AI
+**`lex-ai`** `● legal nlp`
+Legal intelligence platform — document analysis, contract comparison, summarization, legal Q&A.
+`LLMs` `NLP` `Legal AI`
+[→ inspect checkpoint](https://github.com/Anis-h-coder/LexAI---AI-Powered-Legal-Intelligence-Platform)
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" height="38"/>
+---
 
-<small>Deep Learning · Supervised · Unsupervised · NumPy · Pandas · Tensorflow · Scikit-learn · Pytorch · NLP</small>
+**`querytalk-ai`** `● NL2SQL`
+Converts natural language questions into SQL queries and visual analytics on the fly.
+`AI` `SQL` `Data Viz`
+[→ inspect checkpoint](https://github.com/Anis-h-coder/QueryTalk-AI---AI-Powered-Natural-Language-to-SQL-Analytics-Assistant)
 
-</td>
-</tr>
+---
 
-<tr>
-<td valign="top">
-
-### <sub>03</sub> · Generative AI
-
-<img src="https://img.shields.io/badge/LangChain-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChromaDB-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pinecone-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Llama-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Claude-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gemini-111827?style=flat-square"/>
-
-</td>
-
-<td valign="top">
-
-### <sub>04</sub> · Frameworks & Tools
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,git,github,jupyter&theme=dark" height="38"/>
-
-<small>FastAPI · Flask · React.js · REST APIs · Git · GitHub · Jupyter Notebook</small>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-### <sub>05</sub> · Professional
-
-<small>
-Communication · Problem Solving · Analytical Thinking · Team Player · Quick Learner
-</small>
+**`archaeomap-ai`** `● vision`
+YOLO-based computer vision system for soil classification and vegetation detection.
+`YOLO` `CV` `Deep Learning`
+[→ inspect checkpoint](https://github.com/Anis-h-coder/ArchaeoMap-AI-YOLO-Based-Soil-Classification-and-Vegetation-Detection)
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-# ✦ Featured Projects
+## 05 — Training in Progress
 
-<div align="center">
-<sub>Selected AI, ML & intelligent application projects</sub>
-</div>
+<sub>Next checkpoints. Weights still updating.</sub>
 
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 01 · NexusAI
-
-**Enterprise AI**
-
-Multi-agent platform combining **RAG, AutoML, NL-to-SQL and explainable ML.**
-
-`LLMs` · `RAG` · `Agents`
-
-<a href="https://github.com/Anis-h-coder/NexusAI-Multi-Agent-Intelligence-Platform">
-Explore →
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 02 · LexAI
-
-**Legal Intelligence**
-
-AI platform for **document analysis, contract comparison, summarization and legal Q&A.**
-
-`LLMs` · `NLP` · `Legal AI`
-
-<a href="https://github.com/Anis-h-coder/LexAI---AI-Powered-Legal-Intelligence-Platform">
-Explore →
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 03 · Finlytics AI
-
-**Personal Finance**
-
-Intelligent finance platform for **spending analysis, anomaly detection and prediction.**
-
-`ML` · `Gemini` · `Analytics`
-
-<a href="https://github.com/Anis-h-coder/Finlytics-AI-Intelligent-Personal-Finance-Analytics-Platform">
-Explore →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-### 04 · QueryTalk AI
-
-**Natural Language → SQL**
-
-Converts natural language into **SQL queries and visual analytics.**
-
-`AI` · `SQL` · `Data Viz`
-
-<a href="https://github.com/Anis-h-coder/QueryTalk-AI---AI-Powered-Natural-Language-to-SQL-Analytics-Assistant">
-Explore →
-</a>
-
-</td>
-
-<td valign="top">
-
-### 05 · Wanderlust AI
-
-**Travel Intelligence**
-
-AI travel system for **destination discovery, booking and itinerary generation.**
-
-`Groq` · `LLaMA` · `Flask`
-
-<a href="https://github.com/Anis-h-coder/Wanderlust-AI-Travel-Tourism-Management-System">
-Explore →
-</a>
-
-</td>
-
-<td valign="top">
-
-### 06 · ArchaeoMap AI
-
-**Computer Vision**
-
-YOLO-based system for **soil classification and vegetation detection.**
-
-`YOLO` · `CV` · `Deep Learning`
-
-<a href="https://github.com/Anis-h-coder/ArchaeoMap-AI-YOLO-Based-Soil-Classification-and-Vegetation-Detection">
-Explore →
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ✦ Currently Exploring
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=A5B4FC&center=true&vCenter=true&width=650&height=32&lines=Agentic+AI;Advanced+RAG+Architectures;Multi-Agent+Systems;LLM+Evaluation;Intelligent+Automation;AI+Product+Engineering"/>
+```
+[■■■■■■■■□□] Agentic AI Systems
+[■■■■■■■□□□] Advanced RAG Architectures  
+[■■■■■■□□□□] LLM Evaluation & Guardrails
+[■■■■■□□□□□] Multi-Agent Orchestration
+[■■■■■■■■□□] AI Product Engineering
+```
 
 <br>
 
-<img src="https://img.shields.io/badge/AGENTIC%20AI-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/ADVANCED%20RAG-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLM%20SYSTEMS-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20AUTOMATION-111827?style=flat-square"/>
+## 06 — Inference Example
 
-</div>
+```python
+from anish import Engineer
 
----
+engineer = Engineer(name="Anish Fathima N")
 
-# ✦ Let's Build Something Intelligent
+response = engineer.respond(
+    prompt="I have a problem that needs an AI system built around it.",
+    mode="collaborate"
+)
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=22&duration=3200&pause=1000&color=F8FAFC&center=true&vCenter=true&width=650&height=40&lines=Have+an+idea%3F+Let's+turn+it+into+a+system.;Research+%E2%86%92+Prototype+%E2%86%92+Product."/>
+print(response)
+# >> "Send the details — let's scope it: research → prototype → product."
+```
 
 <br>
 
-<a href="https://www.linkedin.com/in/anish-fathima-n-425340300">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:fanish050@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-<a href="https://github.com/Anis-h-coder">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+---
 
-<p>
-<sub><b>Building systems that read · reason · retrieve · predict · respond.</b></sub>
-</p>
+<div align="center">
+
+**Research → Prototype → Product.**
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=A5B4FC)](https://www.linkedin.com/in/anish-fathima-n-425340300)
+[![Email](https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=A5B4FC)](mailto:fanish050@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=A5B4FC)](https://github.com/Anis-h-coder)
+
+<sub>model card last updated · 2026</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,45:111827,75:1E1B4B,100:080B12&height=45&section=footer&width=1600"/>
