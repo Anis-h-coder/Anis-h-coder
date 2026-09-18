@@ -52,14 +52,23 @@
 
 ### 🚀 Featured Projects
 
-| Project | Domain | Tech Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| **🧠 NexusAI** | Enterprise AI | `LLMs` `RAG` `Agents` | [Explore Repo](#) |
-| **⚖️ LexAI** | Legal Intelligence | `NLP` `Legal AI` | [Explore Repo](#) |
-| **💰 Finlytics AI** | Personal Finance | `ML` `Gemini` | [Explore Repo](#) |
-| **🗣️ QueryTalk AI** | NL → SQL Pipeline | `AI` `SQL` | [Explore Repo](#) |
-| **✈️ Wanderlust AI** | Travel Intelligence | `Groq` `LLaMA` | [Explore Repo](#) |
-| **🛰️ ArchaeoMap AI** | Computer Vision | `YOLO` `CV` | [Explore Repo](#) |
+* **🧠 NexusAI** — Enterprise AI Multi-agent platform with AutoML & NL-to-SQL  
+  `LLMs` · `RAG` · `Agents` • [View Repo](#)
+
+* **⚖️ LexAI** — Legal Intelligence, Contract Comparison & Document Analysis  
+  `NLP` · `Legal AI` · `Summarization` • [View Repo](#)
+
+* **💰 Finlytics AI** — Personal Finance Platform with Spending Anomaly Detection  
+  `ML` · `Gemini` · `Analytics` • [View Repo](#)
+
+* **🗣️ QueryTalk AI** — Natural Language to SQL Translation Engine  
+  `AI` · `SQL` · `FastAPI` • [View Repo](#)
+
+* **✈️ Wanderlust AI** — Real-Time Travel Intelligence & Itinerary Planner  
+  `Groq` · `LLaMA` · `LangChain` • [View Repo](#)
+
+* **🛰️ ArchaeoMap AI** — Object Detection & Computer Vision Mapping  
+  `YOLO` · `PyTorch` · `CV` • [View Repo](#)
 
 ---
 
