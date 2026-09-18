@@ -1,53 +1,88 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFA3,100:00E0FF&height=150&section=header&text=ANISH%20FATHIMA%20N&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <!-- Top Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF6B00,100:00FFA3&height=180&section=header&text=Anish%20Fathima%20N&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  
   <br>
 
-  <img src="./assets/profile.png" width="110" height="110" style="border-radius:50%; border:2px solid #00FFA3;" alt="Profile"/>
+  <!-- Glowing Profile Avatar -->
+  <img src="./assets/profile.png" width="120" height="120" style="border-radius:50%; border:3px solid #FF6B00; box-shadow: 0 0 20px #FF6B00; object-fit:cover;" alt="Anish Profile"/>
+  
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=500&color=00FFA3&center=true&vCenter=true&width=380&height=35&lines=%24+whoami;Anish+Fathima+N;AI+%26+Data+Science+Engineer" alt="Typing SVG" />
+  <!-- Role & Focus Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/AI_%26_Data_Science_Engineer-FF6B00?style=for-the-badge&labelColor=0D1117&color=FF6B00" />
+    <img src="https://img.shields.io/badge/Generative_AI_%C2%B7_RAG_%C2%B7_Agents-00FFA3?style=for-the-badge&labelColor=0D1117&color=00FFA3" />
+  </p>
+
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2000&pause=500&color=FF6B00&center=true&vCenter=true&width=550&height=40&lines=%24+whoami;Anish+Fathima+N;Ship.+Don't+Just+Prototype." alt="Typing SVG" />
 </div>
 
 <br>
 
-> 🚀 **Mission:** Building intelligent systems across Generative AI, Machine Learning, Deep Learning, and Data Analytics — the kind that ship, not the kind that stay in a notebook.
+<!-- Mission Quote Box -->
+<div align="center">
+  <blockquote style="border-left: 4px solid #FF6B00; background: #0D1117; padding: 10px;">
+    🚀 <b>Mission:</b> <i>Building intelligent systems across Generative AI, Machine Learning, Deep Learning, and Data Analytics — the kind that ship, not the kind that stay in a notebook.</i>
+  </blockquote>
+</div>
+
+<br>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,mysql,tensorflow,pytorch,sklearn,fastapi,flask,react,git,github,jupyter&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,tensorflow,pytorch,sklearn,fastapi,flask,react,git,github,jupyter&perline=7" />
   <br><br>
-  <code>LangChain</code> • <code>LangGraph</code> • <code>RAG</code> • <code>ChromaDB</code> • <code>Pinecone</code> • <code>FAISS</code> • <code>Hugging Face</code>
+  <p>
+    <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=00FFA3&logo=langchain" />
+    <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logoColor=00E0FF&logo=graphql" />
+    <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logoColor=FF6B00&logo=databricks" />
+    <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logoColor=00FFA3&logo=databricks" />
+    <img src="https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge&logoColor=FFE156&logo=pinecone" />
+    <img src="https://img.shields.io/badge/FAISS-0D1117?style=for-the-badge&logoColor=7C4DFF&logo=meta" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logoColor=FFD21E&logo=huggingface" />
+  </p>
 </div>
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-* **🧠 NexusAI** — Enterprise AI Multi-agent platform  
-  `LLMs` · `RAG` · `Agents`
+* **🧠 NexusAI** — Enterprise AI Multi-agent platform with AutoML & NL-to-SQL  
+  `LLMs` · `RAG` · `Agents` • [View Repo](#)
 
-* **⚖️ LexAI** — Legal Intelligence & Contract Analysis  
-  `NLP` · `Legal AI`
+* **⚖️ LexAI** — Legal Intelligence, Contract Comparison & Document Analysis  
+  `NLP` · `Legal AI` · `Summarization` • [View Repo](#)
 
-* **💰 Finlytics AI** — Personal Finance & Anomaly Analytics  
-  `ML` · `Gemini`
+* **💰 Finlytics AI** — Personal Finance Platform with Spending Anomaly Detection  
+  `ML` · `Gemini` · `Analytics` • [View Repo](#)
 
-* **🗣️ QueryTalk AI** — Natural Language to SQL Pipeline  
-  `AI` · `SQL`
+* **🗣️ QueryTalk AI** — Natural Language to SQL Translation Engine  
+  `AI` · `SQL` · `FastAPI` • [View Repo](#)
+
+* **✈️ Wanderlust AI** — Real-Time Travel Intelligence & Itinerary Planner  
+  `Groq` · `LLaMA` · `LangChain` • [View Repo](#)
+
+* **🛰️ ArchaeoMap AI** — Object Detection & Computer Vision Mapping  
+  `YOLO` · `PyTorch` · `CV` • [View Repo](#)
 
 ---
 
-### ⚡ Focus Queue
+### ⚡ Active Focus & Roadmap
 
 * 🟢 **Ready:** Agentic AI Systems • Advanced RAG Architectures
-* 🟡 **In Progress:** Multi-Agent Orchestration • LLM Evaluation
+* 🟡 **In Progress:** Multi-Agent Orchestration • LLM Evaluation & Guardrails
 * 🔵 **Queued:** AI Product Engineering
 
 ---
 
+<!-- Bottom Banner -->
 <div align="center">
-  <sub><b>Anish Fathima N</b> • Ship. Don't Just Prototype.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFA3,100:FF6B00&height=100&section=footer" width="100%"/>
+  <br>
+  <sub><b>@anish_fathima.ai</b> • Stand Out. Build Trust. Get Noticed.</sub>
 </div>
