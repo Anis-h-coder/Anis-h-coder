@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,25:7C4DFF,50:00E0FF,75:00FFA3,100:FFE156&height=220&section=header&text=ANISH%20FATHIMA%20N&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,25:7C4DFF,50:00E0FF,75:00FFA3,100:FFE156&height=230&section=header&text=ANISH%20FATHIMA%20N&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20Building%20Intelligent%20Systems&descAlignY=52&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=FF6EC7,7C4DFF,00E0FF,00FFA3,FFE156&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Generative+AI+%F0%9F%A4%96;Machine+Learning+%E2%9A%A1;RAG+%2B+AI+Agents+%F0%9F%94%97;Turning+Data+into+Decisions+%F0%9F%93%8A"/>
+<img src="./assets/profile.png" width="150" style="border-radius:50%;border:3px solid #7C4DFF"/>
+
+<sub>👆 renders once this file lives in your repo at <code>assets/profile.png</code> — won't preview here in chat</sub>
 
 <br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=FF6EC7,7C4DFF,00E0FF,00FFA3,FFE156&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Generative+AI+%F0%9F%A4%96;Machine+Learning+%E2%9A%A1;RAG+%2B+AI+Agents+%F0%9F%94%97;Turning+Data+into+Decisions+%F0%9F%93%8A"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/Generative%20AI-FF6EC7?style=for-the-badge&logo=OpenAI&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-7C4DFF?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -20,11 +26,13 @@
 
 </div>
 
+<br>
+
 ## 🌈 About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 I'm **Anish Fathima**, an **AI & Data Science** engineer who builds intelligent systems across **Generative AI, Machine Learning, Deep Learning and Data Analytics**.
 
@@ -34,13 +42,66 @@ I'm **Anish Fathima**, an **AI & Data Science** engineer who builds intelligent 
 📫 Always open to collaborating on something intelligent
 
 </td>
-<td width="40%" align="center">
+<td width="42%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius:20px"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260"/>
 
 </td>
 </tr>
 </table>
+
+<br>
+
+## 📈 Live Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anis-h-coder/Anis-h-coder/output/github-contribution-grid-snake.svg" width="90%"/>
+
+<sub>A snake eats through your contribution graph — animates automatically. See setup ⬇️</sub>
+
+</div>
+
+<details>
+<summary><b>⚙️ 2-minute setup for the animated snake (click to expand)</b></summary>
+<br>
+
+1. In your `Anis-h-coder/Anis-h-coder` profile repo, create `.github/workflows/snake.yml` with:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Push it, then run it once manually (`Actions → Generate Snake → Run workflow`).
+3. It creates an `output` branch with the animated SVG — the image tag above already points to it.
+
+</details>
 
 <br>
 
@@ -159,7 +220,12 @@ YOLO-based system for **soil classification and vegetation detection.**
 
 <br>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anis-h-coder&theme=react-dark&hide_border=true&bg_color=0D1117&color=00E0FF&line=FF6EC7&point=FFE156&area=true&area_color=7C4DFF" width="98%"/>
+
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anis-h-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=ffffff" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Anis-h-coder&theme=radical&no-frame=true&row=1&column=4" width="48%"/>
 
 </div>
 
