@@ -1,158 +1,42 @@
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  MODEL CARD                                              │
-│  anish-fathima-n / ai-engineer                           │
-└─────────────────────────────────────────────────────────┘
-```
-
-<img src="./assets/profile.png" width="120" alt="Anish Fathima N" style="border-radius:50%"/>
-
-# ANISH FATHIMA N
-### `class AIEngineer(HumanIntelligence):`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,25:7C4DFF,50:00E0FF,75:00FFA3,100:FFE156&height=220&section=header&text=ANISH%20FATHIMA%20N&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18"/>
 
 <br>
 
-| | |
-|---|---|
-| **Developed by** | Anish Fathima N |
-| **Model type** | AI / ML Engineer · Generative AI Specialist |
-| **Base architecture** | B.Tech, Artificial Intelligence & Data Science |
-| **Languages** | Python, SQL, JavaScript |
-| **Status** | `● training complete` `● accepting new deployments` |
-| **Contact endpoint** | [linkedin](https://www.linkedin.com/in/anish-fathima-n-425340300) · [email](mailto:fanish050@gmail.com) · [github](https://github.com/Anis-h-coder) |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=FF6EC7,7C4DFF,00E0FF,00FFA3,FFE156&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Generative+AI+%F0%9F%A4%96;Machine+Learning+%E2%9A%A1;RAG+%2B+AI+Agents+%F0%9F%94%97;Turning+Data+into+Decisions+%F0%9F%93%8A"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Generative%20AI-FF6EC7?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-7C4DFF?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-00E0FF?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-00FFA3?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFE156?style=for-the-badge&logo=python&logoColor=black"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Anis-h-coder&style=for-the-badge&color=7C4DFF&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br>
-
-## 01 — Model Description
-
-> Trained to read, reason, retrieve, predict, explain and respond.
-> Specializes in turning unstructured problems into deployed, working systems —
-> not just notebooks that end at 90% accuracy.
-
-I build at the intersection of **Generative AI, Machine Learning, and applied Data Science**. Most of my work follows the same pipeline: understand the data, choose the right architecture, ship something a real user could actually open.
-
-<br>
-
-## 02 — Architecture
-
-```mermaid
-flowchart LR
-    A["Raw Data"] --> B["Preprocessing<br/>Pandas · NumPy"]
-    B --> C["Modeling"]
-    C --> C1["Classical ML<br/>Scikit-learn"]
-    C --> C2["Deep Learning<br/>TensorFlow · PyTorch"]
-    C --> C3["Generative AI<br/>LangChain · RAG · Agents"]
-    C1 --> D["Serving Layer<br/>FastAPI · Flask"]
-    C2 --> D
-    C3 --> D
-    D --> E["Product<br/>Web App / API"]
-
-    style A fill:#111827,stroke:#A5B4FC,color:#F8FAFC
-    style E fill:#1E1B4B,stroke:#C7B7FF,color:#F8FAFC
-```
-
-<br>
-
-## 03 — Capabilities
-
-<table>
-<tr><td width="50%" valign="top">
-
-**Generative AI & LLM Systems**
-```
-LangChain / LangGraph   ████████████░░  85%
-RAG Pipelines           ███████████░░░  80%
-AI Agents               ██████████░░░░  75%
-Vector Search (FAISS,
-ChromaDB, Pinecone)     ███████████░░░  80%
-Prompt Engineering      █████████████░  90%
-```
-
-**Machine Learning**
-```
-Supervised Learning     █████████████░  90%
-Unsupervised Learning   ███████████░░░  80%
-Deep Learning (DL)      ███████████░░░  80%
-Model Evaluation        ████████████░░  85%
-```
-
-</td><td width="50%" valign="top">
-
-**NLP & Computer Vision**
-```
-Text Intelligence / NLP ███████████░░░  80%
-YOLO / Object Detection ██████████░░░░  75%
-Image Understanding     ██████████░░░░  75%
-```
-
-**Engineering**
-```
-Python                  █████████████░  90%
-SQL                     ████████████░░  85%
-FastAPI / Flask         ███████████░░░  80%
-React.js                █████████░░░░░  70%
-Git / GitHub            ████████████░░  85%
-```
-
-</td></tr>
-</table>
-
-<sub>Self-reported scores. Evaluated informally, on real projects, not benchmarks.</sub>
-
-<br>
-
-## 04 — Deployments
-
-<sub>Live checkpoints from training. Each one solves an actual problem.</sub>
+## 🌈 About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-**`nexus-ai`** `● multi-agent`
-Enterprise platform combining RAG, AutoML, NL-to-SQL and explainable ML in one agentic system.
-`LLMs` `RAG` `Agents`
-[→ inspect checkpoint](https://github.com/Anis-h-coder/NexusAI-Multi-Agent-Intelligence-Platform)
+I'm **Anish Fathima**, an **AI & Data Science** engineer who builds intelligent systems across **Generative AI, Machine Learning, Deep Learning and Data Analytics**.
 
----
-
-**`finlytics-ai`** `● analytics`
-Personal finance intelligence — spending analysis, anomaly detection, spend forecasting.
-`ML` `Gemini` `Analytics`
-[→ inspect checkpoint](https://github.com/Anis-h-coder/Finlytics-AI-Intelligent-Personal-Finance-Analytics-Platform)
-
----
-
-**`wanderlust-ai`** `● travel`
-Travel intelligence system for destination discovery, booking flows and itinerary generation.
-`Groq` `LLaMA` `Flask`
-[→ inspect checkpoint](https://github.com/Anis-h-coder/Wanderlust-AI-Travel-Tourism-Management-System)
+🔭 Currently building **RAG pipelines, AI agents, and LLM-powered products**
+⚡ Fun fact: I'd rather ship a working prototype than perfect a notebook
+💬 Ask me about **LangChain, LangGraph, Vector DBs, or Computer Vision**
+📫 Always open to collaborating on something intelligent
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" align="center">
 
-**`lex-ai`** `● legal nlp`
-Legal intelligence platform — document analysis, contract comparison, summarization, legal Q&A.
-`LLMs` `NLP` `Legal AI`
-[→ inspect checkpoint](https://github.com/Anis-h-coder/LexAI---AI-Powered-Legal-Intelligence-Platform)
-
----
-
-**`querytalk-ai`** `● NL2SQL`
-Converts natural language questions into SQL queries and visual analytics on the fly.
-`AI` `SQL` `Data Viz`
-[→ inspect checkpoint](https://github.com/Anis-h-coder/QueryTalk-AI---AI-Powered-Natural-Language-to-SQL-Analytics-Assistant)
-
----
-
-**`archaeomap-ai`** `● vision`
-YOLO-based computer vision system for soil classification and vegetation detection.
-`YOLO` `CV` `Deep Learning`
-[→ inspect checkpoint](https://github.com/Anis-h-coder/ArchaeoMap-AI-YOLO-Based-Soil-Classification-and-Vegetation-Detection)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius:20px"/>
 
 </td>
 </tr>
@@ -160,48 +44,155 @@ YOLO-based computer vision system for soil classification and vegetation detecti
 
 <br>
 
-## 05 — Training in Progress
-
-<sub>Next checkpoints. Weights still updating.</sub>
-
-```
-[■■■■■■■■□□] Agentic AI Systems
-[■■■■■■■□□□] Advanced RAG Architectures  
-[■■■■■■□□□□] LLM Evaluation & Guardrails
-[■■■■■□□□□□] Multi-Agent Orchestration
-[■■■■■■■■□□] AI Product Engineering
-```
-
-<br>
-
-## 06 — Inference Example
-
-```python
-from anish import Engineer
-
-engineer = Engineer(name="Anish Fathima N")
-
-response = engineer.respond(
-    prompt="I have a problem that needs an AI system built around it.",
-    mode="collaborate"
-)
-
-print(response)
-# >> "Send the details — let's scope it: research → prototype → product."
-```
-
-<br>
-
----
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-**Research → Prototype → Product.**
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,tensorflow,pytorch,sklearn,fastapi,flask,react,git,github,jupyter&perline=7"/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=A5B4FC)](https://www.linkedin.com/in/anish-fathima-n-425340300)
-[![Email](https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=A5B4FC)](mailto:fanish050@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=A5B4FC)](https://github.com/Anis-h-coder)
+<br><br>
 
-<sub>model card last updated · 2026</sub>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=00FFA3"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=graphql&logoColor=FF6EC7"/>
+<img src="https://img.shields.io/badge/ChromaDB-1C3C3C?style=flat-square&logo=databricks&logoColor=00E0FF"/>
+<img src="https://img.shields.io/badge/FAISS-1C3C3C?style=flat-square&logo=meta&logoColor=7C4DFF"/>
+<img src="https://img.shields.io/badge/Pinecone-1C3C3C?style=flat-square&logo=pinecone&logoColor=FFE156"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-1C3C3C?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/OpenAI-1C3C3C?style=flat-square&logo=openai&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Gemini-1C3C3C?style=flat-square&logo=googlegemini&logoColor=8E75FF"/>
 
 </div>
+
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 NexusAI — Enterprise AI
+<img src="https://img.shields.io/badge/status-live-00FFA3?style=flat-square"/>
+
+Multi-agent platform combining **RAG, AutoML, NL-to-SQL and explainable ML.**
+
+`LLMs` `RAG` `Agents`
+
+**[→ Explore Repo](https://github.com/Anis-h-coder/NexusAI-Multi-Agent-Intelligence-Platform)**
+
+</td>
+<td width="50%">
+
+### ⚖️ LexAI — Legal Intelligence
+<img src="https://img.shields.io/badge/status-live-00E0FF?style=flat-square"/>
+
+AI platform for **document analysis, contract comparison, summarization and legal Q&A.**
+
+`LLMs` `NLP` `Legal AI`
+
+**[→ Explore Repo](https://github.com/Anis-h-coder/LexAI---AI-Powered-Legal-Intelligence-Platform)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💰 Finlytics AI — Personal Finance
+<img src="https://img.shields.io/badge/status-live-FFE156?style=flat-square"/>
+
+Intelligent finance platform for **spending analysis, anomaly detection and prediction.**
+
+`ML` `Gemini` `Analytics`
+
+**[→ Explore Repo](https://github.com/Anis-h-coder/Finlytics-AI-Intelligent-Personal-Finance-Analytics-Platform)**
+
+</td>
+<td width="50%">
+
+### 🗣️ QueryTalk AI — NL → SQL
+<img src="https://img.shields.io/badge/status-live-FF6EC7?style=flat-square"/>
+
+Converts natural language into **SQL queries and visual analytics.**
+
+`AI` `SQL` `Data Viz`
+
+**[→ Explore Repo](https://github.com/Anis-h-coder/QueryTalk-AI---AI-Powered-Natural-Language-to-SQL-Analytics-Assistant)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✈️ Wanderlust AI — Travel Intelligence
+<img src="https://img.shields.io/badge/status-live-7C4DFF?style=flat-square"/>
+
+AI travel system for **destination discovery, booking and itinerary generation.**
+
+`Groq` `LLaMA` `Flask`
+
+**[→ Explore Repo](https://github.com/Anis-h-coder/Wanderlust-AI-Travel-Tourism-Management-System)**
+
+</td>
+<td width="50%">
+
+### 🛰️ ArchaeoMap AI — Computer Vision
+<img src="https://img.shields.io/badge/status-live-00FFA3?style=flat-square"/>
+
+YOLO-based system for **soil classification and vegetation detection.**
+
+`YOLO` `CV` `Deep Learning`
+
+**[→ Explore Repo](https://github.com/Anis-h-coder/ArchaeoMap-AI-YOLO-Based-Soil-Classification-and-Vegetation-Detection)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anis-h-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00E0FF&text_color=ffffff&ring_color=7C4DFF" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anis-h-coder&theme=radical&hide_border=true&background=0D1117&ring=7C4DFF&fire=FF6EC7&currStreakLabel=00E0FF" width="48%"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anis-h-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=ffffff" width="48%"/>
+
+</div>
+
+<br>
+
+## 🔥 Currently Exploring
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2400&pause=800&color=00FFA3,00E0FF,7C4DFF,FF6EC7&center=true&vCenter=true&width=650&lines=Agentic+AI+Systems;Advanced+RAG+Architectures;Multi-Agent+Orchestration;LLM+Evaluation+%26+Guardrails;AI+Product+Engineering"/>
+
+</div>
+
+<br>
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anish-fathima-n-425340300">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:fanish050@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Anis-h-coder">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=20&duration=3200&pause=1000&color=FFE156&center=true&vCenter=true&width=600&lines=Have+an+idea%3F+Let's+turn+it+into+a+system.;Research+%E2%86%92+Prototype+%E2%86%92+Product."/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE156,25:00FFA3,50:00E0FF,75:7C4DFF,100:FF6EC7&height=150&section=footer&animation=fadeIn"/>
