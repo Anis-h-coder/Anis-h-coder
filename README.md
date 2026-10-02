@@ -1,111 +1,201 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF6B00,100:00FFA3&height=180&section=header&text=Anish%20Fathima%20N&fontSize=40&fontColor=ffffff&animation=twinkle" width="100%"/>
-  <br>
+# 👋 Hi, I'm Anish Fathima
 
-  <img src="./assets/profile.png" width="120" height="120" style="border-radius:50%; border:3px solid #FF6B00; box-shadow: 0 0 20px #FF6B00; object-fit:cover;" alt="Anish Profile"/>
-  <br><br>
+### 🤖 AI Engineer | AI & Data Science Graduate | Generative AI & Full-Stack Developer
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/AI_%26_Data_Science_Engineer-FF6B00?style=for-the-badge&labelColor=0D1117&color=FF6B00" />
-    <img src="https://img.shields.io/badge/Generative_AI_%C2%B7_RAG_%C2%B7_Agents-00FFA3?style=for-the-badge&labelColor=0D1117&color=00FFA3" />
-  </p>
+I build **AI-powered applications, intelligent agents, and data-driven systems** using Machine Learning, Deep Learning, LLMs, RAG, and modern AI technologies.
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=500&color=FF6B00&center=true&vCenter=true&width=500&height=35&lines=%24+whoami;Anish+Fathima+N;Ship.+Don't+Just+Prototype." alt="Typing SVG" />
-</div>
-
-<br>
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td bgcolor="#0D1117" style="border-left: 4px solid #FF6B00; padding: 12px; border-radius: 6px;">
-        🚀 <b>Mission:</b> <i>Building intelligent systems across Generative AI, Machine Learning, Deep Learning, and Data Analytics — the kind that ship, not the kind that stay in a notebook.</i>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
+💡 Passionate about building practical AI solutions that solve real-world problems.
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+## 🧠 About Me
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,mysql,tensorflow,pytorch,sklearn,fastapi,flask,react,git,github,jupyter&perline=7" />
-  <br><br>
-  <p>
-    <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logoColor=00FFA3&logo=langchain" />
-    <img src="https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logoColor=00E0FF&logo=graphql" />
-    <img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logoColor=FF6B00&logo=databricks" />
-    <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logoColor=00FFA3&logo=databricks" />
-    <img src="https://img.shields.io/badge/Pinecone-0D1117?style=flat-square&logoColor=FFE156&logo=pinecone" />
-    <img src="https://img.shields.io/badge/FAISS-0D1117?style=flat-square&logoColor=7C4DFF&logo=meta" />
-    <img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logoColor=FFD21E&logo=huggingface" />
-  </p>
-</div>
+* 🎓 B.Tech in Artificial Intelligence & Data Science
+* 🤖 Focused on **AI/ML, Generative AI, LLMs & AI Agents**
+* 🔎 Interested in **RAG, Prompt Engineering & Agentic AI**
+* 💻 Building AI-powered full-stack applications
+* 📊 Interested in Data Science, Analytics & Computer Vision
+* 🚀 Always learning and experimenting with new AI technologies
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="50%" bgcolor="#0D1117" style="border: 1px solid #FF6B00; border-radius: 8px; padding: 12px;" valign="top">
-      <h4>🧠 NexusAI</h4>
-      <p>Enterprise AI Multi-agent platform with AutoML & NL-to-SQL capability.</p>
-      <code>LLMs</code> <code>RAG</code> <code>Agents</code>
-    </td>
-    <td width="50%" bgcolor="#0D1117" style="border: 1px solid #00FFA3; border-radius: 8px; padding: 12px;" valign="top">
-      <h4>⚖️ LexAI</h4>
-      <p>Legal Intelligence, Contract Comparison & Document Analysis pipeline.</p>
-      <code>NLP</code> <code>Legal AI</code> <code>FastAPI</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" bgcolor="#0D1117" style="border: 1px solid #00E0FF; border-radius: 8px; padding: 12px;" valign="top">
-      <h4>💰 Finlytics AI</h4>
-      <p>Personal Finance Platform with Spending Anomaly Detection models.</p>
-      <code>ML</code> <code>Gemini</code> <code>Analytics</code>
-    </td>
-    <td width="50%" bgcolor="#0D1117" style="border: 1px solid #FF6EC7; border-radius: 8px; padding: 12px;" valign="top">
-      <h4>🗣️ QueryTalk AI</h4>
-      <p>Natural Language to SQL Translation Engine with schema mapping.</p>
-      <code>AI</code> <code>SQL</code> <code>FastAPI</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" bgcolor="#0D1117" style="border: 1px solid #FFE156; border-radius: 8px; padding: 12px;" valign="top">
-      <h4>✈️ Wanderlust AI</h4>
-      <p>Real-Time Travel Intelligence & Custom Itinerary Planner.</p>
-      <code>Groq</code> <code>LLaMA</code> <code>LangChain</code>
-    </td>
-    <td width="50%" bgcolor="#0D1117" style="border: 1px solid #7C4DFF; border-radius: 8px; padding: 12px;" valign="top">
-      <h4>🛰️ ArchaeoMap AI</h4>
-      <p>Object Detection & Computer Vision Spatial Mapping System.</p>
-      <code>YOLO</code> <code>PyTorch</code> <code>CV</code>
-    </td>
-  </tr>
-</table>
+### 💻 Programming
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2E8B57?style=for-the-badge"/>
+</p>
+
+### 🧠 LLMs & AI Frameworks
+
+<p>
+<img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+</p>
+
+### 📊 Data & ML Libraries
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+### 🌐 Backend & APIs
+
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-### ⚡ Active Focus & Roadmap
+# 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td bgcolor="#0D1117" style="border: 1px dashed #00FFA3; border-radius: 8px; padding: 12px;">
-      🟢 <b>Ready:</b> Agentic AI Systems • Advanced RAG Architectures<br>
-      🟡 <b>In Progress:</b> Multi-Agent Orchestration • LLM Evaluation & Guardrails<br>
-      🔵 <b>Queued:</b> AI Product Engineering
-    </td>
-  </tr>
-</table>
+### 🧠 NexusAI — Multi-Agent Intelligence Platform
 
-<br>
+Built a **6-node DAG-based AI agent system** that coordinates research, data analysis, ML, software development, and documentation workflows.
+Integrated **LLMs, RAG, AutoML, XAI, natural-language SQL, and AI-driven quality auditing** into one intelligent platform.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFA3,100:FF6B00&height=100&section=footer" width="100%"/>
-  <br>
-  <sub><b>@anish_fathima.ai</b> • Stand Out. Build Trust. Get Noticed.</sub>
-</div>
+**Tech:** `Python` `AI Agents` `LLMs` `RAG` `LangGraph` `Machine Learning` `XAI`
+
+---
+
+### 💰 Finlytics AI — Intelligent Personal Finance Analytics
+
+Built an AI-powered finance platform for **transaction categorization, spending analysis, anomaly detection, and expense forecasting**.
+Integrated **Machine Learning, LLM-based recommendations, and financial analytics** to generate actionable insights.
+
+**Tech:** `Python` `Machine Learning` `LLMs` `Pandas` `Scikit-learn` `Isolation Forest` `Prophet`
+
+---
+
+### 📚 ScholarFlow — AI Research Assistant
+
+Developed an AI research assistant that helps users **search, understand, summarize, and organize research knowledge**.
+Implemented **LLMs, RAG, embeddings, and document-based question answering** for research workflows.
+
+**Tech:** `LLMs` `RAG` `Embeddings` `Prompt Engineering` `Python`
+
+---
+
+### ⚖️ LexAI — AI Legal Assistant
+
+Built a **RAG-powered legal AI assistant** for retrieving relevant information from legal documents and answering user queries.
+Combined **LLMs, document processing, embeddings, and semantic search** for context-aware responses.
+
+**Tech:** `LLMs` `RAG` `Embeddings` `Semantic Search` `Python`
+
+---
+
+### 💻 CodeMind AI — AI Coding Assistant
+
+Developed an AI-powered coding assistant that helps users **understand code, solve programming problems, and generate solutions**.
+Used **LLM-based reasoning and prompt engineering** to provide interactive developer assistance.
+
+**Tech:** `LLMs` `Prompt Engineering` `Generative AI` `Python`
+
+---
+
+### 🏺 ArchaeoMap AI — Computer Vision Platform
+
+Developed a **computer-vision system for archaeological soil classification** using YOLO-based object detection and image analysis.
+Applied **Deep Learning and OpenCV** techniques to identify and analyze visual patterns in archaeological environments.
+
+**Tech:** `Python` `YOLO` `Deep Learning` `Computer Vision` `OpenCV`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Currently Exploring
+
+```text
+🤖 Agentic AI
+🧠 Large Language Models
+🔎 Retrieval-Augmented Generation
+🕸️ Multi-Agent Systems
+⚡ AI Automation
+📊 Machine Learning
+👁️ Computer Vision
+🔧 AI Engineering
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### 💭 *"Building intelligent systems, one idea at a time."*
+
+⭐ If you find my projects interesting, feel free to explore my repositories!
