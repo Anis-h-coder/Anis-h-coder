@@ -195,9 +195,55 @@ Developed a **YOLO-based deep learning system** for archaeological soil classifi
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anis-h-coder&repo=NexusAI&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=6B7280&icon_color=00C9FF" height="180"/>
+<table>
+<tr>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anis-h-coder&repo=Finlytics-AI&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=6B7280&icon_color=00C9FF" height="180"/>
+<td width="50%" align="center">
+
+### 🧠 AI & Generative AI
+
+<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-FF4D8D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-E11D48?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### 📊 ML & Data Intelligence
+
+<img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00C9FF?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+</td>
+
+</tr>
+</table>
 
 </p>
 
