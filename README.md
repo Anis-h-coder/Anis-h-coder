@@ -198,14 +198,6 @@ Developed a **YOLO-based deep learning system** for archaeological soil classifi
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Anis-h-coder&hide_border=true&theme=transparent&ring=8B5CF6&fire=FF4D8D&currStreakLabel=8B5CF6"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
